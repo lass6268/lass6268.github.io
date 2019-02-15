@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Første post!
 ---
 
 Dette er min første post!
