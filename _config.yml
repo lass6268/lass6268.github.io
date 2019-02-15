@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jespers portefølje
+title: Fjerde semesters portefølje
 
 # Short description of your site
-description: Jespers 4. semestersportefølje
+description: Jespers 4. semesters portefølje
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "http://enmango.dk"
+  Blog: "https://jesp209i.github.io"
   Om Mig: "aboutme"
   Ressourcer:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -128,7 +128,7 @@ url-pretty: "enMango.dk"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+ fb_comment_id: "372523316895760"
 
 # Staticman support
 staticman:
