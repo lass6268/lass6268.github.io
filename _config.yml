@@ -128,7 +128,7 @@ url-pretty: "enMango.dk"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
- fb_comment_id: "372523316895760"
+# fb_comment_id: "372523316895760"
 
 # Staticman support
 staticman:
