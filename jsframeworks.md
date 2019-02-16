@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Læringsmål Javascript Frameworks
-subtitle: Why you'd want to go on a date with me
+title: Læringsmål 
+subtitle: Javascript Frameworks
 ---
 
 Javascript frameworks læringsmål
