@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Studieplaner
+title: Læringsplaner
 ---
 
-Her kommer der lidt om mine studieplaner
+Her kommer der lidt om mine læringsplaner
