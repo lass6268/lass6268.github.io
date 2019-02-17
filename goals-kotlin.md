@@ -2,10 +2,12 @@
 layout: page
 title: Læringsmål
 subtitle: Kotlin
-categories: [læringsmål, kotlin, kladde]
+
 ---
 
-Kotlin : 10 ECTS
+Dette er foreløbig et udkast
+
+Point : 10 ects
 
 Viden: jeg vil gerne kunne beskrive, forklare, illustrere, identificere o.s.v
 - vide hvordan man udvikler med Kotlin
