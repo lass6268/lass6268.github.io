@@ -9,7 +9,7 @@ Dette er foreløbig et udkast
 Point : 5 ects
 
 
-### Testing: Brugertest og automatiserede regressionstest (5 ECTS)
+### Testing: Brugertest og automatiserede regressionstest
 Jeg vil kunne planlægge og udføre værdiskabende brugertest. Jeg vil opnå bevidsthed om hvilke udfordringer der hører til denne type test og hvordan de kan påvirke det videre udviklingsarbejde.
 - Platforme: Web og mobil
 
