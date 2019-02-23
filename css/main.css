@@ -16,7 +16,7 @@ body {
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
-  padding-top: 10px;
+  margin-top: 10px;
 }
 p {
   line-height: 1.5;
