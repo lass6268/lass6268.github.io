@@ -6,11 +6,13 @@ use-site-title: true
 ---
 
 # Hej
-Jeg hedder Jesper og jeg går på 4. semester datamatiker ved [University College Lillebælt](http://www.ucl.dk). Dette er min hjemmeside til at fremvise min portefølje for dette semester.
+Jeg hedder Jesper og jeg går på 4. semester datamatiker ved [University College Lillebælt](http://www.ucl.dk) i Odense.
 
-Jeg har valgt disse tre overordnede emner til dette semester:
+Fjerde semester bruges på "specialisering". Her har vi som studerende får mulighed for selv at vælge og tilrettelægge det materiale og de emner vi vil gennemgå. Det eneste krav er, at det er en væsentlig progression i den viden vi opnår. (Altså vi skal lære noget nyt)
+
+Jeg har valgt disse tre overordnede emner:
 - [udvikling med Kotlin](goals-kotlin) (10 ects)
 - [javascript frameworks](goals-jsframeworks) (10 ects)
 - [testing](goals-testing) (5 ects)
 
-Undervejs er det meningen at jeg skal dokumentere min læring, frustration, eksperimenter og lignende her på sitet.
+Undervejs er det meningen at jeg skal dokumentere min læring, frustration, eksperimenter og lignende her.
