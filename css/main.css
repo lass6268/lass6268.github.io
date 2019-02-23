@@ -16,14 +16,10 @@ body {
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
-  margin-top: 10px;
 }
 p {
   line-height: 1.5;
   margin: 30px 0;
-}
-div.container[role="main"]{
-  background-color: #F2FEFE;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
