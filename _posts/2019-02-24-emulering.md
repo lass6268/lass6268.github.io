@@ -2,7 +2,6 @@
 layout: post
 title: Smagsprøve på Kotlin
 tags: [kotlin, uge 8, emulator problemer]
-image: /img/androidhw2.PNG
 ---
 
 I løbet af igår hvor jeg var ved at være nogenlunde frisk igen, tænkte jeg at det nok var en ide at komme så småt igang. 
@@ -19,3 +18,5 @@ Kurset indeholder også en kort intro til den Android-emulator som følger med [
 - Emulatoren bør være køreklar i Android Studio nu
 
 Efterfølgende er der en gennemgang af de elementer et Androidprogram blandt andet består af. Men kurset går aldrig rigtig i dybden med noget - det er naturligvis også kun et kort kursus. Og et rigtig fint et, til netop lige at snuse til emnet!
+
+![](/img/androidhw2.PNG)
