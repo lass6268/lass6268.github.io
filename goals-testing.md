@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Læringsmål
-subtitle: Testing
+subtitle: Testing: Brugertest og automatiserede regressionstest
 ---
 
 Dette er foreløbig et udkast
 
 Point : 10 ects
-
 
 ### Testing: Brugertest og automatiserede regressionstest
 Jeg vil kunne planlægge og udføre værdiskabende brugertest. 
@@ -18,6 +17,7 @@ Jeg vil forbedre programmernes brugervenlighed vha brugertest og brugerinddragel
 
 Jeg vil kunne skabe, strukturere og køre automatiserede regressionstest for at sikre at tidligere funktionalitet ikke skades af videreudvikling. Jeg vil undersøge hvordan man opstiller automatiserede test med Selenium. Hvilke fordele og ulemper er der ved denne testform.
 - Platform: Web
+
 <!--
 ### Viden: jeg vil gerne kunne beskrive, forklare, illustrere, identificere o.s.v
 ### Færdigheder: Jeg vil gerne kunne anvende, afprøve, analyse, sammenligne o.s.v
