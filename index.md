@@ -12,7 +12,7 @@ Fjerde semester bruges på "specialisering". Her har vi som studerende får muli
 
 Jeg har valgt disse tre overordnede emner:
 - [udvikling med Kotlin](goals-kotlin) (10 ects)
-- [javascript frameworks](goals-jsframeworks) (10 ects)
-- [testing](goals-testing) (5 ects)
+- [javascript frameworks](goals-jsframeworks) (5 ects)
+- [Testing: Brugertest og automatiserede regressionstest](goals-testing) (10 ects)
 
 Undervejs er det meningen at jeg skal dokumentere min læring, frustration, eksperimenter og lignende her.
