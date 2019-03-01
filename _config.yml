@@ -24,7 +24,9 @@ description: Jespers 4. semesters portefølje
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Læringsplaner: "studyplans"
+  Læringsplaner: 
+    - Aktuelle : "studyplans"
+    - Ældre : "studyplans-old"
   Læringsmål:
     - Udvikling til Android, med Kotlin: "goals-kotlin"
     - JavaScript frameworks: "goals-jsframeworks"
