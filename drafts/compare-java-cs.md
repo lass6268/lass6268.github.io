@@ -1,12 +1,17 @@
 ---
 layout: post
-title: Sammenligning af C# og Java
+title: Sammenligning
+subtitle: C# og Java
+tags: [C# vs Java, uge 9, Kotlin]
 ---
+Her kommer en kort gennemgang af visse forskelle og ligheder mellem Java og C#. Mit udgangspunkt er C#, som jeg kender fra tidligere på uddannelsen. 
 
-Filendelser:
-- Java: `.java`
-- C# : `.cs`
+Men egentlig skal jeg jo lære Kotlin, så hvad er grunden til denne sammenligning mellem Java og C#?
+De fleste kilder jeg umiddelbart er kommet i nærheden af siger at Kotlin er en moderne version af Java. De fleste kilder anbefaler også at man har en grundviden på plads om Java før man giver sig i kast med Kotlin, og det er her denne tekst kommer ind i billedet.
 
+Det er min tanke at jeg senere skal holde den viden jeg opsamler nu, op imod det jeg lærer om Kotlin. 
+
+## Grundstruktur
 Filen `Main.java`:
 ```java
 package com.example; // package declaration - indikerer filens placering i projektet
@@ -15,6 +20,22 @@ public class Main{
   public static void main(string[] args){ // metoder starter med lowercase
     System.out.println("Hello from Java!");
   }
+}
+
+```
+
+Filen `Program.cs`:
+```C#
+using System;
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello from C#!");
+        }
+    }
 }
 
 ```
