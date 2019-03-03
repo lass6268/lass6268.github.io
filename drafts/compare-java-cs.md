@@ -2,7 +2,7 @@
 layout: post
 title: Sammenligning
 subtitle: C# og Java
-tags: [C# vs Java, uge 9, Kotlin]
+tags: [C# vs Java, uge 9, kotlin]
 ---
 Her kommer en kort gennemgang af visse forskelle og ligheder mellem Java og C#. Mit udgangspunkt er C#, som jeg kender fra tidligere på uddannelsen. 
 
@@ -14,7 +14,9 @@ Det er min tanke at jeg senere skal holde den viden jeg opsamler nu, op imod det
 ## Grundstruktur
 Filen `Main.java`:
 ```java
-package com.example; // package declaration - indikerer filens placering i projektet
+package com.example; 
+// package declaration - indikerer filens placering i projektet
+// svarer til et namespace i C#
 
 public class Main{ 
   public static void main(string[] args){ // metoder starter med lowercase
@@ -23,6 +25,10 @@ public class Main{
 }
 
 ```
+
+Hvis man vil trække packages ind i et projekt skal man bruge `import package_name;` lige under pakke-deklarationen.
+
+I C# bruger man `namespace` i stedet for `package`, men de opfylder nogenlunde samme formål. Hvis man vil trække flere namespaces ind i et projekt bruger man `using NameOfNamespace`.
 
 Filen `Program.cs`:
 ```C#
@@ -45,7 +51,7 @@ Navnene på klasser, metoder, fields (osv.) er identifiers
 - Keywords kan ikke bruges som identifiers.
   - [Java keywords](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
 
-# Navngivningskonvention
+## Navngivningskonvention
 Disse konventioner bliver ikke overhold af kompileren, og hvis du bryder dem vil din kode stadig virke, men hvis andre udviklere skal se din kode, vil de have nemmere ved at orientere sig hvis nedenstående følges:
 - Klasser starter med stort bogstav, som vi kender det fra C#.
   - `public class MyClass`
@@ -64,3 +70,32 @@ Javas garbage collection fungerer grundlæggende på samme måde som når man br
 Det vil sige:
 - Når man opretter en variable, et objekt eller andet, stiller java automatisk hukommelse til rådighed til formålet.
 - Når objektet ikke længere kan tilgås fra koden, vil garbage collectoren sørge for at rydde op og hukommelsen frigives igen.
+
+# Primitive Typer
+Primitive typer er værdier, ikke objekter. Primitive typer står altid med lowercase. Der findes dog hjælpeklasser i `Java.Lang` pakken som kan bruges til at manipulere typerne på forskellige måder:
+
+| Primitiv datatype | Hjælpe klasse |
+|---|---|
+| byte | Byte | 
+| short | Short | 
+| int | Integer | 
+| long | Long | 
+| float | Float | 
+| boolean | Boolean | 
+| char | Character | 
+| double | Double | 
+
+Objekt, det vil sige ikke en primitiv type:
+- String
+- BigDecimal - bruges ved beregninger på penge / monetære værdier
+
+# Operationer
+Både C# og Java føler samme operator-standard som c-sproget foreskriver - og derfor ligner C# og Java også hinanden meget på dette punkt.
+
+Eksempelvis bruger man `=` til assignment af værdier.
+
+## Matematiske
+I Java kan man bruge `+`, `-` , `*` , `/`, `++`, `--` til beregninger. Der findes desuden en klasse som kan lave mere avanceret matematik: `Math`.
+
+## Validerende, sammenlignende
+De samme valideringsudtryk som man bruger i C# er også tilgængelige i Java: `==`, `!=`, `>`, `<`, `>=`, `<=`. 
