@@ -99,3 +99,41 @@ I Java kan man bruge `+`, `-` , `*` , `/`, `++`, `--` til beregninger. Der finde
 
 ## Validerende, sammenlignende
 De samme valideringsudtryk som man bruger i C# er også tilgængelige i Java: `==`, `!=`, `>`, `<`, `>=`, `<=`. 
+
+# Løkker
+Løkker fungerer på samme måde i de to sprog. Du kan bruge `for`, `foreach`, `while` og `do..while`.
+
+Den vigtigste forskel forekommer ved `foreach` hvor syntaksen er lidt anderledes i java:
+
+```java
+String[] names = {"Bob", "Andrew", "Billy"}
+foreach (String name : names) {
+// kode udeladt
+}
+```
+
+# Arv
+Igen ved arv er der store ligheder mellem C# og java, da der gælder de samme regler. Dog er der her forskel på syntaksen mellem de to sprog.
+Ved arv i Java bruger man `extents` keyword til at angive at `Shirt` har arvet fra `ClothingItem`. Contructoren i `Shirt` kalder superklassens constructor med `super(type, size, price)`. 
+```java
+public class Shirt extents ClothingItem {
+  public Shirt(String type, String size, double price){
+    super(type, size, price);
+  }
+}
+```
+
+Her kommer tilsvarende i C#:
+```C#
+public class Shirt : ClothingItem {
+  public Shirt(String type, String size, double price) : base(type, size, price){
+  }
+}
+```
+
+Hvis man skal override en metode i subklassen skal man bruge annotationen `@Override` over metoden. Dette er også en lille forskel fra syntakten i C#, hvor man ville bruge keyworded direkte i metodens signatur.
+
+## interfaces
+Ved brug af interfaces skal man benytte keyword `implements` i steder for `extents`.
+
+Ellers fungerer det iøvrigt på samme måde som ved C#.
