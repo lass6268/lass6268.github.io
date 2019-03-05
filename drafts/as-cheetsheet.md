@@ -10,8 +10,11 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 | Genvej (win) | Beskrivelse |
 |---|---|
 | ctrl-d | dubliker linie |
+| shift-F6 | Refactor |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-|  |  |
+
+
+https://developer.android.com/studio/intro/keyboard-shortcuts
