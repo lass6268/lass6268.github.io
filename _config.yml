@@ -25,22 +25,19 @@ description: Jespers 4. semesters portefølje
 navbar-links:
   Blog: "blog"
   Læringsplaner: 
-    - Aktuelle : "studyplans"
+    - Aktuel : "studyplans"
     - Ældre : "studyplans-old"
   Læringsmål:
     - Udvikling til Android, med Kotlin: "goals-kotlin"
     - JavaScript frameworks: "goals-jsframeworks"
     - Testing: "goals-testing"
- # Erfa-Grupper:
- #   - Xamarin.Native: "erfa-xamarin"
- #   - Javascript frameworks: "erfa-js"
- #   - Databaser: "erfa-database"
- #   - Testing: "erfa-testing"
   Projekt: 
     - Julian: "https://codeiwrote.net"
     - Lars: "https://larzraz.github.io"
     - Lasse: "#"
     - Mathias: "https://mnabe.github.io"
+    - ----: #
+    - gh/ordsome: https://github.com/jesp209i/ordsome
   Om Mig: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
