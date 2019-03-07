@@ -9,11 +9,12 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 
 | Genvej (win) | Beskrivelse |
 |---|---|
-| ctrl-d | dubliker linie |
+| ctrl-d | dubliker linje |
 | shift-F6 | Refactor |
-|  |  |
-|  |  |
-|  |  |
+| alt-enter |  |
+| ctrl-/ | udkommenter linje / fjern kommentering |
+| ctrl-F9 | Build |
+| shift-F10 | Build og kør |
 |  |  |
 
 
