@@ -11,11 +11,10 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 |---|---|
 | ctrl-d | dubliker linje |
 | shift-F6 | Refactor |
-| alt-enter |  |
-| ctrl-/ | udkommenter linje / fjern kommentering |
+| alt-enter | særlig action - eksempelvis importer pakke |
 | ctrl-F9 | Build |
-| shift-F10 | Build og kør |
-|  |  |
+| shift-F10 | Build og kør i emulator |
+| ctrl-mellemrum | forslag til kodefærdiggørelse |
 
 
 https://developer.android.com/studio/intro/keyboard-shortcuts
