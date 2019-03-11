@@ -15,6 +15,7 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 | ctrl-F9 | Build |
 | shift-F10 | Build og kør i emulator |
 | ctrl-mellemrum | forslag til kodefærdiggørelse |
+| ctrl-q | Hent dokumentation for det language-keyword du har markøren på |
 
 
 - [Android studio keyboard shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
