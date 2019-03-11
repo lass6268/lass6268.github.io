@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cheat sheet
-subtitle: Android Studio
+title: Android Studio cheat sheet
+subtitle: Opsamling af genveje og andet lir
 tags: [Android Studio, uge 11, kotlin]
 ---
 
