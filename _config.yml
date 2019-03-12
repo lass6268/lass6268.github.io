@@ -26,6 +26,7 @@ navbar-links:
   Blog: "blog"
   Læringsplaner: 
     - Aktuel : "studyplans"
+    - Kommende : "studyplans-new"
     - Ældre : "studyplans-old"
   Læringsmål:
     - Udvikling til Android, med Kotlin: "goals-kotlin"
