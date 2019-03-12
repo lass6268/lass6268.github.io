@@ -30,7 +30,7 @@ navbar-links:
     - Ældre : "studyplans/old"
   Læringsmål:
     - Udvikling til Android, med Kotlin: "goals/kotlin"
-    - JavaScript frameworks: "goals/jsframeworks"
+    - Angular: "goals/jsframeworks"
     - Testing: "goals/testing"
   Projekt: 
     - Julian: "https://codeiwrote.net"
