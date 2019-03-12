@@ -25,17 +25,17 @@ description: Jespers 4. semesters portefølje
 navbar-links:
   Blog: "blog"
   Læringsplaner: 
-    - Aktuel : "studyplans"
-    - Kommende : "studyplans-new"
-    - Ældre : "studyplans-old"
+    - Aktuel : "studyplans/current"
+    - Kommende : "studyplans/new"
+    - Ældre : "studyplans/old"
   Læringsmål:
-    - Udvikling til Android, med Kotlin: "goals-kotlin"
-    - JavaScript frameworks: "goals-jsframeworks"
-    - Testing: "goals-testing"
+    - Udvikling til Android, med Kotlin: "goals/kotlin"
+    - JavaScript frameworks: "goals/jsframeworks"
+    - Testing: "goals/testing"
   Projekt: 
     - Julian: "https://codeiwrote.net"
     - Lars: "https://larzraz.github.io"
-    - Lasse: "https://www.youtube.com/watch?v=XqZsoesa55w"
+    - Lasse: "https://lass6268.github.io"
     - Mathias: "https://mnabe.github.io"
     - ----: #
     - gh/ordsome: https://github.com/jesp209i/ordsome
