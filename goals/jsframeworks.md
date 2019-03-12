@@ -8,7 +8,7 @@ Dette er foreløbig et udkast
 
 Point : 5 ects
 
-Fokus på Angular og React.
+Fokus på Angular.
 
 udvikl' webklienter i begge fw - kan man lave mere og andet end frontend med dem?
 forskelle/ligheder mellem dem og derfra vælge det rigtige værktøj til den konkrete opgave.
