@@ -28,6 +28,7 @@ Point : 10 ects
 - udføre bruger- og automatiske test
 - identificere og rapportere problemer på baggrund af bruger- og automatiske test
 - sikre at eksisterende funktionalitet ikke ødelægges af nyudvikling ved brug af automatiske test igennem Selenium
+- kunne opsætte automatiske tests i Selenium
 
 ### Kompetencer: Jeg vil gerne kunne kombinere, ændre, diskutere, kontrollere o.s.v.
 - forbedre brugeroplevelsen ud fra testrapporter
