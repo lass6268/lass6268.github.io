@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Læringsmål
-subtitle: Kotlin
+subtitle: Appudvikling med Kotlin
 
 ---
 
