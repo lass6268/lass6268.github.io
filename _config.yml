@@ -29,7 +29,7 @@ navbar-links:
     - Kommende : "studyplans/new"
     - Ældre : "studyplans/old"
   Læringsmål:
-    - Udvikling til Android, med Kotlin: "goals/kotlin"
+    - Appudvikling med Kotlin: "goals/kotlin"
     - Angular: "goals/jsframeworks"
     - Testing: "goals/testing"
   Projekt: 
