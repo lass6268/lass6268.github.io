@@ -1,7 +1,7 @@
 ---
 layout: post
 title: App'ens anatomi
-subtitle: Sådan ser din app ud indeni
+subtitle: Sådan ser en app ud indeni
 tags: [appudvikling, kotlin, uge x]
 ---
 
