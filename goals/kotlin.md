@@ -10,7 +10,7 @@ Dette er foreløbig et udkast
 Point : 10 ects
 
 ### Viden: jeg vil gerne kunne beskrive, forklare, illustrere, identificere o.s.v
-- vide hvordan man udvikler med Kotlin
+- vide hvordan man udvikler android-apps med Kotlin
 - vide hvad man kan bruge Kotlin til ud over mobil udvikling
 - kende mere til relationen mellem Java og Kotlin
 - viden om relevante design mønstre til mobil app udvikling
