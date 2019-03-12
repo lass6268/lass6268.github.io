@@ -1,24 +1,27 @@
 ---
 layout: page
 title: Læringsmål 
-subtitle: Javascript Frameworks
+subtitle: Angular
 ---
 
 Dette er foreløbig et udkast
 
 Point : 5 ects
 
-Fokus på Angular.
+Fokus på js-frameworket Angular.
 
-udvikl' webklienter i begge fw - kan man lave mere og andet end frontend med dem?
-forskelle/ligheder mellem dem og derfra vælge det rigtige værktøj til den konkrete opgave.
+- Lave en metodisk gennemgang af js frameworket Angular.
+- Udvikl en webklient i Angular (bruge projektet som udgangspunkt)
+- kan man lave mere og andet end frontend med sådan et framework?
+
 
 ### Viden: jeg vil gerne kunne beskrive, forklare, illustrere, identificere o.s.v
-- vide hvordan man udvikler med JavaScript og JavaScript frameworks
+- vide hvordan man udvikler i Angular
+- undersøge anvendelsesmulighederne (og begrænsningerne) af Angular
 
 ### Færdigheder: Jeg vil gerne kunne anvende, afprøve, analyse, sammenligne o.s.v
-- Sammenligne forskellige JavaScript frameworks
-- Udvikle JavaScript app - tillægsapps.
+- kende og bruge dokumentationen til frameworket
+- udvikle en klient i Angular
 
 ### Kompetencer: Jeg vil gerne kunne kombinere, ændre, diskutere, kontrollere o.s.v.
-- kunne vælge det framework som passer til den konkrete opgave 
+- kunne diskutere andre frameworks med afsæt i Angular
