@@ -32,3 +32,4 @@ Point : 10 ects
 
 ### Kompetencer: Jeg vil gerne kunne kombinere, ændre, diskutere, kontrollere o.s.v.
 - forbedre brugeroplevelsen ud fra testrapporter
+- forbedre programmets stabilitet ved at bruge Selenium til automatiserede regressionstest
