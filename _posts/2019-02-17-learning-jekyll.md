@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lær Jekyll at kende.
-tags: [new stuff, blogging, meta, uge 7]
+tags: [uge 7, new stuff, blogging, meta]
 ---
 Et krav til dette semester er at vi skal dokumentere vores proces ved hjælp af en portefølje på nettet. 
 Der er ikke nogle konkrete krav til hvordan denne portefølge skal opbygges, så jeg har valgt at bruge pages.github.com til at hoste mit indhold, og så bruger jeg beautiful-jekyll til at generere websiderne.  
