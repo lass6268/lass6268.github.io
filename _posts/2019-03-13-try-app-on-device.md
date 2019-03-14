@@ -2,7 +2,7 @@
 layout: post
 title: Afprøv dine apps på en enhed
 subtitle: Aktiver Android developer mode
-tags: [appudvikling, android, uge 11]
+tags: [uge 11, appudvikling, android]
 ---
 
 Det er jo rigtig fint at man kan afprøve sine apps på [android-emulatoren](2019-02-24-emulering) der følger med Android Studio. Men det føles nu stadig mere rigtigt at afprøve tingene på en fysisk enhed. 
