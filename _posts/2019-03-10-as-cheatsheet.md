@@ -2,6 +2,7 @@
 layout: post
 title: Android Studio cheat sheet
 subtitle: Opsamling af genveje og andet lir
+comment: true
 tags: [uge 10, Android Studio, appudvikling]
 ---
 
