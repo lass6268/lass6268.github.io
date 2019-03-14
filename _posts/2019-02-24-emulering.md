@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smagsprøve på Kotlin
+comment: true
 tags: [uge 8, kotlin, emulator problemer, android, appudvikling]
 ---
 
