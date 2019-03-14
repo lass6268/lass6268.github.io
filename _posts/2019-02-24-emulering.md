@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smagsprøve på Kotlin
-tags: [kotlin, uge 8, emulator problemer, android, appudvikling]
+tags: [uge 8, kotlin, emulator problemer, android, appudvikling]
 ---
 
 I løbet af igår hvor jeg var ved at være nogenlunde frisk igen, tænkte jeg at det nok var en ide at komme så småt igang. 
