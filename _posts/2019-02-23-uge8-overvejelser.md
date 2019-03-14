@@ -1,7 +1,7 @@
 ---
 layout: post
 title: En uge mest med overvejelser
-tags: [testing, kotlin, uge 8, overvejelser]
+tags: [uge 8, testing, kotlin, overvejelser]
 ---
 
 Det startede ellers så fint med 3 Erfa-gruppemøder og et hurtigt vejledermøde i mandags.
