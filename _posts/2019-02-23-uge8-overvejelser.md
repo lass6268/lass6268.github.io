@@ -1,6 +1,7 @@
 ---
 layout: post
 title: En uge mest med overvejelser
+comment: true
 tags: [uge 8, testing, kotlin, overvejelser]
 ---
 
