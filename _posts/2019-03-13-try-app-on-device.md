@@ -2,6 +2,7 @@
 layout: post
 title: Afprøv dine apps på en enhed
 subtitle: Aktiver Android developer mode
+comment: true
 tags: [uge 11, appudvikling, android]
 ---
 
