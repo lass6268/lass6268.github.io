@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lær Jekyll at kende.
+comment: true
 tags: [uge 7, new stuff, blogging, meta]
 ---
 Et krav til dette semester er at vi skal dokumentere vores proces ved hjælp af en portefølje på nettet. 
