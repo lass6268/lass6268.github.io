@@ -5,6 +5,14 @@ subtitle: Kladde underoverskrift
 tags: [uge x, UX, testing, målgruppeanalyse]
 ---
 
+de fleste danskere kan engelsk (og tysk/svensk/norsk) til husbehov eller bedre.  findes der en kilde på danskeres sprogkundskaber fordelt på år?
+
+Hvem henvender tjenesten sig til?
+Alternativer?
+Hvornår er det smart?
+
+
+
 Bemærk at i `tags` skal ugenr altid stå først (min egen konvention).
 
 blogindlæggetsfilens navn skal starte med datoen efter følgende format: `2019-03-14-titel-på-blogpost.md`
