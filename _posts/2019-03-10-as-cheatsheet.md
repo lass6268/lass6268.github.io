@@ -18,6 +18,6 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 | ctrl-mellemrum | forslag til kodefærdiggørelse |
 | ctrl-q | Hent dokumentation for det language-keyword du har markøren på |
 | ctrl-p | hvis en metode er overloaded, vises tilgængelige signaturer |
-
+| ctrl + klik (på metodenavn) | Spring til implementeringen af metoden |
 
 - [Android studio keyboard shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
