@@ -9,7 +9,9 @@ Kotlin er en særlig størrelse når man har arbejde med C# tidligere. Det meste
 
 Her er lidt overfladiske observationer fra de sidste 2-3 ugers arbejde med sproget.
 
-## Det man ikke gør (i kotlin)
+## Det man ikke gør
+Altså det man ikke gør i C#, men man gør det i kotlin.
+
 I Kotlin bruger man ikke semikolon ved slutningen af statements, compileren opfatter et new-line som om sætningen er færdig.
 
 Man bruger heller ikke keywordet `new` til at instantiere objekter/klasser. 
@@ -26,6 +28,22 @@ Når man deklarerer variabler kan man skrive typen bagved: (ligesom Typescript)
 var description: String = "Kotlin is fun"
 val descriptionCantChange = "Denne variabel kan ikke skifte værdi"
 description = "Kotlin is still fun"
+```
+
+## Metodesignaturer
+Metoder defineres med ordet `fun`. Hvis metoden ikke har nogen returtype, skal der ikke skrives noget efterfølgende
+
+```kotlin
+// ingen returtype
+fun noReturnType(){ 
+  println("Hello!")
+}
+
+// returnerer en streng
+fun thisIsAFunction(val name:String): String{
+    return "$name is the name"
+}
+
 ```
 
 ## Arv og klasser
@@ -46,14 +64,16 @@ class ExampleClass(val number: Int, val name: String) //primær constructor
 
 ```
 
-Arv foregår på nogenlunde samme måde som i C#. Dog kan `data class`es ikke nedarve fra hinanden.
+Arv foregår på nogenlunde samme måde som i C#. 
 ```kotlin
 class ExampleClass() : AbstractExampleClass {...}
 
 ```
 
+Dog kan `data class'es` ikke nedarve fra hinanden.
+
 ### interfaces
-Når man implementerer et interface, skal man naturligvis implementere alle metoder der er defineret i interfaces, men man skal bruge keyword'et `override`:
+Når man implementerer et interface, skal man naturligvis implementere alle metoder der er defineret i interfaces. I implementeringen man skal bruge keyword'et `override` ved alle metoderne:
 
 ```kotlin
 override fun functionFromInterface(){
@@ -61,7 +81,6 @@ override fun functionFromInterface(){
 }
 
 ```
-
 
 ### data class
 I C# ville man lave en såkald POCO, men her kan man lave følgende:
