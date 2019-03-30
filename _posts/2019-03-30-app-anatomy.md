@@ -2,7 +2,7 @@
 layout: post
 title: App'ens anatomi
 subtitle: Sådan ser en app ud indeni
-tags: [uge 13, appudvikling, kotlin, Android Studio]
+tags: [uge 13, appudvikling, Android Studio]
 ---
 
 Præcis som i alle mulige andre programmerings projekter, består en android app af en samling af filer, der, når de bliver kompilet, udgør den færdige mobilapp.
