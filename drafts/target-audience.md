@@ -1,12 +1,22 @@
 ---
 layout: post
-title: Målgruppe
-subtitle: Kladde underoverskrift
-tags: [uge x, UX, testing, målgruppeanalyse]
+title: Tanker om målgrupper
+tags: [uge 13, målgruppeanalyse, testing]
 ---
+
+Vi skal lave en app, som man kan bruge til at stille andre mennesker oversættelsesspørgsmål. 
 
 de fleste danskere kan engelsk (og tysk/svensk/norsk) til husbehov eller bedre.  findes der en kilde på danskeres sprogkundskaber fordelt på år?
 
 Hvem henvender tjenesten sig til?
 Alternativer?
 Hvornår er det et smart produkt?
+
+Fra [Danmarks Statestik](https://www.dst.dk/da/Statistik/emner/priser-og-forbrug/forbrug/elektronik-i-hjemmet)
+![](/img/elektronik.png)
+
+
+Fra https://uvm.dk/folkeskolen/fag-timetal-og-overgange/fag-emner-og-tvaergaaende-temaer/folkeskolens-fag
+> Faget engelsk er obligatorisk fra 1. klasse.
+>Faget tysk/fransk er obligatorisk fra 5. klasse. I 7. klasse kan eleven fritages for undervisningen i 2. fremmedsprog.
+>Eleverne kan vælge et tredje fremmedsprog som valgfag. Dette kan være tysk, fransk, spansk eller et andet fremmedsprog, som skolerne vælger at udbyde.
