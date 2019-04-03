@@ -22,6 +22,7 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 | ctrl-o| bruges i en klasse, åbner et vindue hvor du angiver hvilke medtoder du vil lave en override på |
 
 # Git relateret
+
 | Genvej (win) | Beskrivelse |
 |---|---|
 | ctrl-k | lav et commit|
