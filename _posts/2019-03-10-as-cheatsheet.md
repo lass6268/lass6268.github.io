@@ -21,4 +21,10 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 | ctrl + klik (på metodenavn) | Spring til implementeringen af metoden |
 | ctrl-o| bruges i en klasse, åbner et vindue hvor du angiver hvilke medtoder du vil lave en override på |
 
+# Git relateret
+| Genvej (win) | Beskrivelse |
+|---|---|
+| ctrl-k | lav et commit|
+| ctrl-shift-k | lav et push til den branch du er på |
+
 - [Android studio keyboard shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
