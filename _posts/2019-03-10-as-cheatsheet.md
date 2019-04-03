@@ -28,4 +28,7 @@ Dette er blot en lille oversigt med genveje og andet lir til Android Studio. Vil
 | ctrl-k | lav et commit|
 | ctrl-shift-k | lav et push til den branch du er på |
 
+
 - [Android studio keyboard shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
+
+(Seneste opdatering: 3. april 2019 - tilføjelse af Git commit og git push)
