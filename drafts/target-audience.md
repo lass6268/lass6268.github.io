@@ -4,7 +4,11 @@ title: Tanker om målgrupper
 tags: [uge 13, målgruppeanalyse, testing]
 ---
 
-Vi skal lave en app, som man kan bruge til at stille andre mennesker oversættelsesspørgsmål. 
+Jeg er igang med at danne mig et billede af den type bruger vi potentielt kunne have på vores tjeneste.
+
+Vi skal lave en app, som man kan bruge til at stille andre mennesker oversættelsesspørgsmål. I sammen med vores PO'er snakker vi om  "turisten", som en metafor på den bruger vi umiddelbart forestiller os.
+
+
 
 de fleste danskere kan engelsk (og tysk/svensk/norsk) til husbehov eller bedre.  findes der en kilde på danskeres sprogkundskaber fordelt på år?
 
