@@ -19,9 +19,9 @@ Fra [Danmarks Statestik](https://www.dst.dk/da/Statistik/emner/priser-og-forbrug
 
 de fleste danskere kan engelsk (og tysk/svensk/norsk) til husbehov eller bedre.  findes der en kilde på danskeres sprogkundskaber fordelt på år?
 
-Hvem henvender tjenesten sig til?
-Alternativer?
-Hvornår er det et smart produkt?
+- Hvem henvender tjenesten sig til?
+- Alternativer?
+- Hvornår er det et smart produkt?
 
 
 
