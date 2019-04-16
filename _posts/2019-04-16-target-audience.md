@@ -45,7 +45,7 @@ Tjenesten vil formentlig ikke blive brugt til "hverdagstekster" på de sprog som
 ## Vesteuropæisk målgruppe
 Per 2018 ligger udbredelsen af smartphones i Vesteuropa på lige under 70%
 
-![](/img/westeu.PNG/)
+![](/img/westeu.png/)
 
 > Fra [Statista: Smartphone user penetration as percentage of total population in Western Europe from 2011 to 2018](https://www.statista.com/statistics/203722/smartphone-penetration-per-capita-in-western-europe-since-2000/)
 
