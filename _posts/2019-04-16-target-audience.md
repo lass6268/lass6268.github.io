@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tanker om målgrupper
-tags: [uge 16, målgruppeanalyse, testing]
+tags: [uge 16, målgruppeanalyse, testing, overvejelser]
 ---
 
 I forlængelse af mit emne om testing, er jeg igang med at danne mig et billede af den type user vi potentielt kunne have på vores tjeneste. Det er en smule ukonkret, men jeg har prøvet at få nedskrevet nogle overvejelser og struktureret det her.
