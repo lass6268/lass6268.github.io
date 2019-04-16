@@ -43,7 +43,7 @@ Tjenesten vil formentlig ikke blive brugt til "hverdagstekster" på de sprog som
 "Hverdagstekster" på sprog der ikke er så velkendte her, vil formentlig være mere udbredt. 
 
 ## Vesteuropæisk målgruppe
-Per 2018 ligger udbredelsen af smartphones i Vesteuropa på lige under 70%
+Fra 2018 ligger udbredelsen af smartphones i Vesteuropa på lige under 70%
 
 ![](/img/westeu.png)
 
