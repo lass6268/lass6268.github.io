@@ -42,6 +42,11 @@ Tjenesten vil formentlig ikke blive brugt til "hverdagstekster" på de sprog som
 
 "Hverdagstekster" på sprog der ikke er så velkendte her, vil formentlig være mere udbredt. 
 
+## Vesteuropæisk målgruppe
+
+Fra [Statista: Smartphone user penetration...](https://www.statista.com/statistics/203722/smartphone-penetration-per-capita-in-western-europe-since-2000/)
+
+
 # Alternativer til vores tjeneste
 Den type users som skitseres ovenfor er vant til at bruge informations teknologi. De kan derfor nemt selv finde frem til konkurenter til vores tjeneste. Her har jeg prøvet at skitsere et par muligheder:
 
