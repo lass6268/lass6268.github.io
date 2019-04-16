@@ -63,4 +63,4 @@ Den type users som skitseres ovenfor er vant til at bruge informations teknologi
   - Hvis man er vant til at bruge ordbøger, kan man få nogle rimelig gode resultater ved opslag.
 
 - Søgemaskine (eksempelvis Google)
-  - en søgning på en tekststreng efterfulgt at det sprog man gerne vil have oversat til, kan i nogle tilfælde give
+  - en søgning på en tekststreng efterfulgt at det sprog man gerne vil have oversat til, kan i nogle tilfælde give brugbare resultater
