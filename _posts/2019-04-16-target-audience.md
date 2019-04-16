@@ -26,11 +26,11 @@ Fra [Danmarks Statestik](https://www.dst.dk/da/Statistik/emner/priser-og-forbrug
 
 I forlængelse af statestikken antager jeg også at de fleste smartphone users er rimelig vant til at bruge apps og internettet generelt.
 
-Jeg har ikke nogle statestikker om danskernes sprogkundskaber, men jeg gør mig nogle antagelser:
+Jeg har ikke nogle statestikker om danskernes sprogkundskaber, men jeg antager følgende...:
 
-- de fleste danskere kan engelsk (og tysk/fransk/svensk/norsk) til husbehov eller bedre.  
+- de fleste danskere kan engelsk (og tysk/fransk/svensk/norsk) til husbehov eller bedre  
 
-På baggrund af dette:
+... på baggrund af dette:
 
 > - Faget engelsk er obligatorisk fra 1. klasse. 
 > - Faget tysk/fransk er obligatorisk fra 5. klasse. I 7. klasse kan eleven fritages for undervisningen i 2. fremmedsprog. 
