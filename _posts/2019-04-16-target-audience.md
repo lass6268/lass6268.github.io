@@ -43,9 +43,15 @@ Tjenesten vil formentlig ikke blive brugt til "hverdagstekster" på de sprog som
 "Hverdagstekster" på sprog der ikke er så velkendte her, vil formentlig være mere udbredt. 
 
 ## Vesteuropæisk målgruppe
+Per 2018 ligger udbredelsen af smartphones i Vesteuropa på lige under 70%
 
-Fra [Statista: Smartphone user penetration...](https://www.statista.com/statistics/203722/smartphone-penetration-per-capita-in-western-europe-since-2000/)
+![](/img/westeu.PNG/)
 
+> Fra [Statista: Smartphone user penetration as percentage of total population in Western Europe from 2011 to 2018](https://www.statista.com/statistics/203722/smartphone-penetration-per-capita-in-western-europe-since-2000/)
+
+Her bruger jeg samme antagelse som ovenfor nemlig at de fleste smartphone users formentlig er rimelig vant til at bruge apps og internettet generelt.
+
+Jeg vil ikke gøre mig de store antagelser om hele Vesteuropas sprogkundskaber. Men jeg har en forventning om at de fleste lande i Vesteuropa også har fremmedsprogundervisning i et eller andet omfang på grundskoleniveau.
 
 # Alternativer til vores tjeneste
 Den type users som skitseres ovenfor er vant til at bruge informations teknologi. De kan derfor nemt selv finde frem til konkurenter til vores tjeneste. Her har jeg prøvet at skitsere et par muligheder:
