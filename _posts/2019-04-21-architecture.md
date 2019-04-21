@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overvejelser om app arkitektur
+title: Observationer om app arkitektur
 subtitle: kode struktur og design patterns
 tags: [uge 16, appudvikling, overvejelser]
 ---
