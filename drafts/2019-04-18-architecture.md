@@ -21,17 +21,21 @@ Det illustrerer hvordan android anbefaler at man bruger deres achitecture compon
 - Drive UI from a model
 
 # Separation of concerns
-Appen bliver delt op i nogle overordnede dele som beslæftiger sig med den del. Eksempelvis ligger 
-
-
-- [mit indlæg om Koin](https://enmango.dk/2019-04-14-Koin/)
+Appen bliver delt op i nogle overordnede moduler som har hver sit afgrænsede ansvar. Trelagsmodellen beskrevet i Larman (f.eks. s. 199) er rimelig klassisk:
+- UI layer
+- Domain layer
+- Technical services
 
 # Drive UI from a model
 
 
 
 
-# Grasp og Solid
+# Andre principper
+Clean Code, Solid og Grasp
+
+Inversion of Control:
+- [mit indlæg om Koin](https://enmango.dk/2019-04-14-Koin/)
 
 
 
