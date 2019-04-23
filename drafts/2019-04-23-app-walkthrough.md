@@ -21,15 +21,26 @@ Hvis brugeren "opgraderer" sig selv til at være en der også besvarer forespør
 
 ## 1. Forespørgsler
 Brugeren møder dette billede, hvor der kan indtastes en forespørgsel som han vil have oversat:
+
 ![](/img/ordsomegram/OrdsomeGram1.png)
 
+Bemærk at __målsprog__, nederst i billedet, allerede er udfyldt. Denne information kommer fra telefonens styresystem, der fortæller appen hvilket sprog den kører. Det er fordi vi har en forventning om at folk bruger det sprog på telefonen som de helst vil kommunikere på. På denne måde gør vi appen simplere for brugere, som ikke behøver at tage stilling til denne "indstilling". Det er dog tanken at man skal kunne ændre dette på et senere tidspunkt.
+
+
+Udfyldning af information:
 
 ![](/img/ordsomegram/OrdsomeGram2B.png)
+
+Når der trykkes send, popper denne lille besked op og skærmen felter ryddes, så der er klar til en ny forespørgsel.
+
 ![](/img/ordsomegram/OrdsomeGram2c.png)
+
+## 2. Svar
 
 ![](/img/ordsomegram/OrdsomeGram3.png)
 ![](/img/ordsomegram/OrdsomeGram3b.png)
 
+## 3. Besvar
 ![](/img/ordsomegram/OrdsomeGram4.png)
 ![](/img/ordsomegram/OrdsomeGram4b.png)
 ![](/img/ordsomegram/OrdsomeGram4c.png)
