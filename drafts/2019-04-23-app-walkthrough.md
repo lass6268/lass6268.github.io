@@ -6,7 +6,9 @@ tags: [uge 17, appudvikling, testing]
 
 Dette er en hurtig gennemgang af min app, som den er på nuværende tidspunkt.
 
-Nederst viser jeg en tidligere navigationskladde som jeg endte med at gå bort fra.
+Den overordnede navigation foregår med en såkaldt navigation-bar. Denne er valgt fordi den giver brugeren overblik over de vigtigste funktioner, uanset hvor i app'en man måtte befinde sig.
+
+Nederst viser jeg en tidligere navigationskladde som jeg endte med at gå bort fra, efter en fremvisning og efterfølgende feedback fra opgavestillerne.
 
 # App-navigation
 De grundlæggende tanker omkring navigationen afspejles af nedenstående billede:
@@ -26,7 +28,6 @@ Brugeren møder dette billede, hvor der kan indtastes en forespørgsel som han v
 
 Bemærk at __målsprog__, nederst i billedet, allerede er udfyldt. Denne information kommer fra telefonens styresystem, der fortæller appen hvilket sprog den kører. Det er fordi vi har en forventning om at folk bruger det sprog på telefonen som de helst vil kommunikere på. På denne måde gør vi appen simplere for brugere, som ikke behøver at tage stilling til denne "indstilling". Det er dog tanken at man skal kunne ændre dette på et senere tidspunkt.
 
-
 Udfyldning af information:
 
 ![](/img/ordsomegram/OrdsomeGram2B.png)
@@ -36,10 +37,9 @@ Når der trykkes send, popper denne lille besked op og skærmen felter ryddes, s
 ![](/img/ordsomegram/OrdsomeGram2c.png)
 
 ## 2. Svar
-Ved klik på "Svar" i navigationen, kommer man til følgende liste:
+Ved klik på "Svar" i navigationen, får man en liste over sine forespørgsler. Den forespørgsel vi oprettede for et øjeblik siden ligger nederst i listen.
 
 ![](/img/ordsomegram/OrdsomeGram3.png)
-
 
 > __TODO:__ Det er meningen at en bruger kun kan se sine egne forespørgsler i denne liste, men denne funktionalitet er ikke udviklet på dette tidspunkt i backenden.
 
@@ -73,3 +73,21 @@ Hvis man går tilbage til "Svar" oversigten, kan man se at den nederste har en b
 Og ved et videre tap på det item, kan man se besvarelsen
 
 ![](/img/ordsomegram/OrdsomeGram4d.png)
+
+# Navigation Drawer
+Denne er populært kaldet "burger-menuen" fordi den består af en knap med tre vandrette streger (en stiliseret burger).
+
+Tanken er egentlig at den samme overordnede navigationsstruktur skal gå igen i dette forslag, det er kun selve menuen der er anderledes:
+
+Her er menuen ikke vist, og brugeren har en dejligt stort skærmområde at boltre sig på.
+
+![](/img/ordsomegram/OrdsomeDrawer1.png)
+
+Ved at klikke på menu-ikonet (øverst til venstre) folder der sig en menu ud, som viser de samme muligheder som beskrevet længere oppe.
+
+![](/img/ordsomegram/OrdsomeDrawer2.png)
+
+Kritikken jeg fik, gik på at det virker mindre intuitivt for brugeren at alle appens muligheder er gemt væk, og at der skal flere kliks til at gøre det samme. Vi snakkede dog om at hvis man eksempelvis havde et større device (tablet/ipad) så kunne burgermenuen godt bruges, den skulle bare være åben altid. Og så forsvinder ideen med en folde ind/ud menu også i det tilfælde.
+
+# Reflektion
+
