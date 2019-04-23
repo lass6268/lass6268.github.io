@@ -4,7 +4,7 @@ title: App gennemgang
 tags: [uge 17, appudvikling, testing]
 ---
 
-Dette er en hurtig gennemgang af min app, som den er på nuværende tidspunkt.
+Dette er en hurtig gennemgang af min mobil app, som den er på nuværende tidspunkt.
 
 Den overordnede navigation foregår med en såkaldt navigation-bar. Denne er valgt fordi den giver brugeren overblik over de vigtigste funktioner, uanset hvor i app'en man måtte befinde sig.
 
@@ -79,9 +79,9 @@ Denne er populært kaldet "burger-menuen" fordi den består af en knap med tre v
 
 Tanken er egentlig at den samme overordnede navigationsstruktur skal gå igen i dette forslag, det er kun selve menuen der er anderledes:
 
-Her er menuen ikke vist, og brugeren har en dejligt stort skærmområde at boltre sig på.
-
 ![](/img/ordsomegram/OrdsomeDrawer1.png)
+
+Under den grønne linje vises app'ens indhold, så man går et lidt større område at boltre sig på, da navigationen ikke altid er synlig.
 
 Ved at klikke på menu-ikonet (øverst til venstre) folder der sig en menu ud, som viser de samme muligheder som beskrevet længere oppe.
 
@@ -90,4 +90,10 @@ Ved at klikke på menu-ikonet (øverst til venstre) folder der sig en menu ud, s
 Kritikken jeg fik, gik på at det virker mindre intuitivt for brugeren at alle appens muligheder er gemt væk, og at der skal flere kliks til at gøre det samme. Vi snakkede dog om at hvis man eksempelvis havde et større device (tablet/ipad) så kunne burgermenuen godt bruges, den skulle bare være åben altid. Og så forsvinder ideen med en folde ind/ud menu også i det tilfælde.
 
 # Reflektion
+Der er ikke udført nogle brugertest på baggrund af disse to navigationseksempler. Det kunne have været spændende at se hvordan uvidende brugere havde reageret på de to muligheder, og hvilke kommentarer de iøvrigt ville have haft.
 
+De valg jeg har foretaget med henblik på navigation, er udelukkende baseret på min mavefornemmelse, diskussioner i projektgruppen og feedback fra vores opgavestillere.
+
+Man kunne forelsempel sagtens argumentere for at det var smartere at appen startede i "Svar"-delen, så han hurtigere kunne se eventuelle nye svar på sine forespørgsler. Eventuelt at den kun starter i "Forespørgsel" første gang man starter app'en og så efterfølgende altid starter i "Svar". 
+
+Brugertest ville sikkert også her kunne afsløre det bedste udgangspunkt (som sagtens kunne være et helt nyt forslag baseret på brugerfeedback).
