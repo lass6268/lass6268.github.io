@@ -92,7 +92,7 @@ Kritikken jeg fik, gik på at det virker mindre intuitivt for brugeren at alle a
 # Reflektion
 Der er ikke udført nogle brugertest på baggrund af disse to navigationseksempler. Det kunne have været spændende at se hvordan uvidende brugere havde reageret på de to muligheder, og hvilke kommentarer de iøvrigt ville have haft.
 
-De valg jeg har foretaget med henblik på navigation, er udelukkende baseret på min mavefornemmelse, diskussioner i projektgruppen og feedback fra vores opgavestillere.
+De valg jeg har foretaget med henblik på navigation og ui, er udelukkende baseret på min mavefornemmelse, diskussioner i projektgruppen og feedback fra vores opgavestillere. (og ganske lidt på Googles Material design).
 
 Man kunne forelsempel sagtens argumentere for at det var smartere at appen startede i "Svar"-delen, så han hurtigere kunne se eventuelle nye svar på sine forespørgsler. Eventuelt at den kun starter i "Forespørgsel" første gang man starter app'en og så efterfølgende altid starter i "Svar". 
 
