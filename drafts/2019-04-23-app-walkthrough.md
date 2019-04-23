@@ -8,7 +8,7 @@ Dette er en hurtig gennemgang af min app, som den er på nuværende tidspunkt.
 
 Nederst viser jeg en tidligere navigationskladde som jeg endte med at gå bort fra.
 
-## App-navigation
+# App-navigation
 De grundlæggende tanker omkring navigationen afspejles af nedenstående billede:
 
 ![](/img/ordsomegram/OrdsomeGram0.png)
@@ -36,12 +36,40 @@ Når der trykkes send, popper denne lille besked op og skærmen felter ryddes, s
 ![](/img/ordsomegram/OrdsomeGram2c.png)
 
 ## 2. Svar
+Ved klik på "Svar" i navigationen, kommer man til følgende liste:
 
 ![](/img/ordsomegram/OrdsomeGram3.png)
+
+
+> __TODO:__ Det er meningen at en bruger kun kan se sine egne forespørgsler i denne liste, men denne funktionalitet er ikke udviklet på dette tidspunkt i backenden.
+
+Listen består af nogle items og i et list-item kan man se frasen man vil have oversat, fra/til-sprog og antallet af besvarelser til denne.
+
+Hvis man klikker på et item, får man følgende skærm (andet niveau):
+
 ![](/img/ordsomegram/OrdsomeGram3b.png)
 
+> __TODO:__ Vi har nogle tanker om at hvis flere "besvarelses-brugere" kommer med samme forslag til oversættelse, så skal man kunne se i brugerfladen hvor gange et forslag går igen. Dette skal så hjælpe "forespørgsels-brugeren" med at vælge og acceptere et svar.
+
 ## 3. Besvar
+Ved klik på "Besvar" i navigationen, kommer man til følgende liste: (ja listelayoutet er genbrugt fra ovenstående)
+
+![](/img/ordsomegram/OrdsomeGram3.png)
+
+> __TODO:__ Her er det meningen af brugeren skal præsenteres for andres oversættelsesforespørgsler, som han kan hjælpe med. Det er vores tanke at en "besvarelses-bruger" skal kunne angive hvilke sprog han kan hjælpe med, og at systemet derfor kun sender ham forespørgsler han kan hjælpe med. Han skal ikke oversvømmes, så han får måske 10-20 foresprøgsler (eller et antal han selv sætter i indstillingerne) som han kan kigge på, når han har tid og lyst. Modtager han en forespørgsel som han ikke kan (eller vil) hjælpe med, kan han svipe den væk.
+
+Hvis man klikker på et item, får man følgende skærm (andet niveau):
+
 ![](/img/ordsomegram/OrdsomeGram4.png)
+
+Her indtastes dit forslag og der trykkes send. Brugeren får følgende pop-up at oversættelsen er sendt:
+
 ![](/img/ordsomegram/OrdsomeGram4b.png)
+
+Hvis man går tilbage til "Svar" oversigten, kan man se at den nederste har en besvarelse.
+
 ![](/img/ordsomegram/OrdsomeGram4c.png)
+
+Og ved et videre tap på det item, kan man se besvarelsen
+
 ![](/img/ordsomegram/OrdsomeGram4d.png)
