@@ -62,3 +62,5 @@ ng generate module app-routing --flat --module=app
 
 ## Er der andet man skal vide nu?
 Hvis du vil oprette en modelklasse foregår det ikke igennem CLI'en, du laver bare en fil med modelnavnet.
+
+> Og CLI er en forkortelse der står for "Command Line Interface" - så har vi også den på plads ;).
