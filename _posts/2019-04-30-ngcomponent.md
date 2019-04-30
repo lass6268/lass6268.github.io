@@ -2,7 +2,7 @@
 layout: post
 title: Components og Services i Angular
 subtitle: Nogle af Angulars bestanddele
-tags: [uge 18, Angular, webudvikling, Bootstrap]
+tags: [uge 18, Angular, webudvikling]
 ---
 Dette bliver ikke en fuldstændig gennemgang af Angular, hvordan tingene fungerer og gennemgang af at starte et projekt. Hvis du vil vide netop det, så selv ind og læs på [Angulars hjemmesiden], den er nemlig ret god!
 
