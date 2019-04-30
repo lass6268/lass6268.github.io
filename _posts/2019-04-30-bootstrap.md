@@ -2,7 +2,7 @@
 layout: post
 title: Bootstrap
 subtitle: hurtig og nem styling af webapp
-tags: [uge 18, webudvikling]
+tags: [uge 18, webudvikling, bootstrap]
 ---
 
 Det kan være omstændigt selv at skrive css-styling til sine web-projekter. Hvis det ikke er noget man har gjort sig så meget i, så bliver det også hurtigt noget makværk. Så trækker man et færdig style-pakke ind som [bootstrap](https://getbootstrap.com/).
