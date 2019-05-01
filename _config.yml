@@ -29,8 +29,10 @@ navbar-links:
     - Kommende : "studyplans/new"
   Mål:
     - Kotlin: "goals/kotlin"
-    - Angular: "goals/jsframeworks"
+    - Angular: "goals/angular"
     - Testing: "goals/testing"
+    - ---: #
+    - Støtteemner: "goals/supporting"
   Projekt: 
     - Julian: "https://codeiwrote.net"
     - Lars: "https://larzraz.github.io"
