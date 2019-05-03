@@ -15,6 +15,7 @@ Fjerde semester bruges på "specialisering". Her har vi som studerende får muli
 Nogle vælger at fortsætte i lidt i samme spor med C#, men jeg syntes det spændende med lidt nyt så jeg har valgt disse tre overordnede emner:
 - [appudvikling med Kotlin](goals/kotlin) (10 ects)
 - [Angular](goals/jsframeworks) (5 ects)
-- [Testing: Brugertest og automatiserede regressionstest](goals/testing) (10 ects)
+- [Testing: Brugertest](goals/testing) (5 ects)
+- [Diverse småemner som støtter op om de 3 ovenstånede](goals/supporting) (5 ects)
 
 Undervejs er det meningen at jeg skal dokumentere min læring, frustration, eksperimenter og lignende [her](blog).
