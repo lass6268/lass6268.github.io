@@ -16,38 +16,47 @@ Webklienten er opbygget efter den struktur som også er benyttet i mobilklienten
 
 I webapp'en er der dog arbejdet på at udnytte skærmen lidt bedre.
 
-__Lav forespørgsel__
+### Lav forespørgsel
 
 Dette er den skærm man møder, når man kommer ind på siden. Herfra kan man sende sine forespørgsler.
 
-
 ![](/img/appupdate/newreq.PNG)
-
 
 > TODO: vi mangler en pæn måde at håndtere mulige sprog på. På nuværende tidspunkt gemmes både kilde- og målsprog som tekststrenge, hvilket kan give problemer når vi vil lave matches mellem forespørgsler og potentielle brugere der skal besvare dem.
 
-__Liste med egne forespørgsler__
+### Liste med egne forespørgsler
 
-Ved klik på en forespørgsel kan man se de svar andre brugere har sendt.
+Oversigten viser alle ens egne forespørgsler og ved klik på en forespørgsel kan man se de svar andre brugere har sendt.
 
-Her kan forespørgeren også lukke forespørgslen (og åbne den igen) og vælge et eller flere svar som han "foretrækker"
+Inde på en forespørgsel har brugeren mulighed for at  lukke forespørgslen (og åbne den igen) og vælge et eller flere svar som han "foretrækker".
 
 ![](/img/appupdate/myreq.PNG)
 
-Endelig er der et view til at besvare andres forespørgsler.
+> TODO: Når en bruger har "lukket" en forspørgsel er det meningen at den ikke længere sendes ud til andre der potentielt kan besvare den. Denne funktionalitet bliver tidligst introduceret når vi har fået styr på vores userservice.
 
-Voting-systemet er ikke udviklet, men der er her gjort klar til det.
+### Andres forespørgsler
+
+Endelig er der et view der er beregnet til at vise og besvare andres forespørgsler.
+
+Listen vises og fungerer på grundlæggende samme måde som "listen med egne forespørgsler".
 
 ![](/img/appupdate/answerreq.PNG)
 
-## Ordsomegram
-Listerne i appen er blevet mere responsive. Viewet updates (med en enkelt undtagelse) når der hentes eller manipuleres data i appen.
+> TODO: Voting-systemet er ikke udviklet, men der er her gjort klar til en grundudgave af det. Også dette er afhængigt af at userservice er helt klar. 
 
-Her kan forespørgsler også lukkes og åbnes med et tap på teksten
+## Ordsomegram
+Siden sidste update:
+- Listerne er blevet mere responsive og opdateres korrekt når ny data hentes eller data bliver manipuleret
+- Hver Skærm har fået egen titel, så man som bruger bedre kan få en fornemmelse af hvor man er i programmet
+
+### Liste med egne forespørgsler
+Når man fra listen med egne forespørgsler klikker videre ind på en forespørgsel for at se dennes detaljer, er der her lavet mulighed for at lukkes og åbnes med et tap på teksten i toppen.
 
 ![](/img/appupdate/Screenshot_1557265257.png)
 
-Svarne kan markeres som "foretrukne" med et tap. Her slår ændringerne desværre ikke direkte igennem til viewet endnu.
+> TODO: Området man skal tappe på et rimelig lille, så brugeroplevelsen er muligvis ikke så god på nuværende tidspunkt. 
+
+Svarne kan markeres som "foretrukne" med et tap. Denne feature er desværre ikke så responsiv endnu.
 
 ![](/img/appupdate/Screenshot_1557265266.png)
 
