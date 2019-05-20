@@ -15,7 +15,7 @@ Point : 10 ects
 - kende mere til relationen mellem Java og Kotlin
 - viden om relevante design mønstre til mobil app udvikling
 - viden om relevante sikkerhedsproblematikker på mobile platforme
-- viden om distributionskanaler (app store / google play)
+- // viden om distributionskanaler (app store / google play)
 
 ### Færdigheder: Jeg vil gerne kunne anvende, afprøve, analyse, sammenligne o.s.v
 - Udvikle mobilapplikationer ved at anvende et dedikeret programmeringssprog
