@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tanker om målgrupper
-subtitle: Den målgruppe der ikke kom med i første omgang
+title: Tanker om målgrupper - anden del
+subtitle: Betragtninger der ikke kom med i første omgang
 tags: [uge 20, målgruppeanalyse, testing, overvejelser]
 ---
 
