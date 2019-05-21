@@ -18,7 +18,7 @@ LiveData fungerer som en wrapper. Du indpakker dit data i et LiveData-objekt. N�
 
 En eller flere observer holder øjne med ændringer i datasættet. Når der sker ændringer, sørger observeren for at de ønskede handlinger sker. Det kunne eksempelvis være en ændring af teksten/farven/udseenet i brugerfladen. 
 
-LiveData implementerer hvad der svarer til publisher/subscriber design pattern. Selve LiveData er en publisher.
+LiveData implementerer hvad der svarer til observer design pattern. Selve LiveData er subjektet hvis tilstand der kan observes.
 
 ## ViewModel
 En ViewModel indeholder det data der skal præsenteres i viewet. Der kan også være diverse metoder til at håndtere dette data. Eksempelvis en metode til at hente data fra Repository.
@@ -43,13 +43,22 @@ class ExampleViewModel(val app: Application) : AndroidViewModel(app) {
 > Activity der bruger ovenstående ViewModel og observer på LiveData
 ```kotlin
 class MyActivity : AppCompatActivity() {
-
+    private lateinit var exampleViewModel: ExampleViewModel
+    private val newTitleFromActivity = "Ny overskrift"
+    
     override fun onCreate(savedInstanceState: Bundle?) {
-    // 
-        val model = ViewModelProviders.of(this).get(ExampleViewModel::class.java)
-        model.getUsers().observe(this, Observer<List<User>>{ users ->
-            // update UI
+    // Opretter en instans af vores ViewModel
+        exampleViewModel = ViewModelProviders.of(this).get(ExampleViewModel::class.java)
+        
+    // Starter en observer, der holder øje med ændringer på fragmentTitle    
+        exampleViewModel.fragmentTitle.observe(this, Observer { 
+        // logikken der håndterer ændringer
+          activity?.title = it
         })
+    }
+    
+    fun onClick() {
+      exampleViewmodel?.changeFragmentTitle(newTitleFromActivity)
     }
 }
 
