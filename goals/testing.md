@@ -8,7 +8,7 @@ Dette er foreløbig et udkast
 
 Point : 5 ects
 
-- Fokus er på materiale af Steve Krug
+- Fokus er på Steve Krugs bog: "Rocket Surgery made easy" fra 2010
 
 ### Viden: jeg vil gerne kunne beskrive, forklare, illustrere, identificere o.s.v
 - udvikle testplaner til brugertests
