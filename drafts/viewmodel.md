@@ -1,77 +1,20 @@
 ---
 layout: post
-title: ViewModel 
+title: LiveData og ViewModel
 subtitle: Kladde underoverskrift
-tags: [uge x, hest, dyr, pony]
+tags: [uge 21, appudvikling, kotlin]
 ---
 
-Bemærk at i `tags` skal ugenr altid stå først (min egen konvention).
+Her kommer en lille update om LiveData og ViewMode.
+- LiveDate er en observable klasse der holder på data.
+- ViewModel klassen er designet til at gemme og håndtere brugerflade relateret data.
 
-blogindlæggetsfilens navn skal starte med datoen efter følgende format: `2019-03-14-titel-på-blogpost.md`
+![](/img/vm.png)
 
-markdown kan bruges til at formatere teksten:
-```markdown
-# h1 overskrift
-## h2 overskrift
-### h3 overskrift
-#### h4 overskrift
-_kursiv tekst_
+## LiveData
+LiveData fungerer som en wrapper. Du indpakker dit data i et LiveData-objekt. Hvis du sørger for at bruge LiveDatas funktioner, vil den sørge for at sende beskeder videre til de steder i koden som vil kende til ændringerne.
 
-__fed tekst__
-
-![alt tekst](/img/hello_world.jpeg "billede mouseover tekst")
-
-[eksternt link](https://google.com)
-
-[internt relativt link](/blog)
-```
-# h1 overskrift
-## h2 overskrift
-### h3 overskrift
-#### h4 overskrift
-_kursiv tekst_
-
-__fed tekst__
-
-![alt tekst](/img/hello_world.jpeg "billede mouseover tekst")
-
-[eksternt link](https://google.com)
-
-[internt relativt link](/blog)
-
-```markdown
-#### uordnet liste:
-- første punkt
-- andet punkt
-- tredje punkt
-- fjerde punkt
-  - underpunkt (2 spaces foran)
-    - underunderpunkt
-- femte punkt (tilbage på linje med de andre)
-```
-
-#### uordnet liste:
-- første punkt
-- andet punkt
-- tredje punkt
-- fjerde punkt
-  - underpunkt (2 spaces foran)
-    - underunderpunkt
-- femte punkt (tilbage på linje med de andre)
+En eller flere observer holder øjne med ændringer i datasættet. Når der sker ændringer, sørger observeren for at de ønskede handlinger sker. Det kunne eksempelvis være en ændring af teksten/farven/udseenet i brugerfladen. 
 
 
-```markdown
-#### tabel:
-| tabeloverskrift1 | tabeloverskrift2 | tabeloverskrift3 | tabeloverskrift4 |
-|---|---|---|---|
-| hest | ko | marsvin | undulat |
-| får | grin | torsk | papegøje |
-```
-
-#### tabel:
-
-| tabeloverskrift1 | tabeloverskrift2 | tabeloverskrift3 | tabeloverskrift4 |
-|---|---|---|---|
-| hest | ko | marsvin | undulat |
-| får | grin | torsk | papegøje |
 
