@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LiveData og ViewModel
-subtitle: Kladde underoverskrift
 tags: [uge 21, appudvikling, kotlin]
 ---
 
