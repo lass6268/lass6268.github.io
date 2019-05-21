@@ -24,9 +24,7 @@ description: Jespers 4. semesters portefølje
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Planer: 
-    - Aktuel + ældre: "studyplans/current"
-    - Kommende : "studyplans/new"
+  Planer: "studyplans/current"
   Mål:
     - Kotlin: "goals/kotlin"
     - Angular: "goals/angular"
