@@ -34,8 +34,8 @@ Steve vil gerne have at relevante udviklerne og andre stakeholderes er med til b
 
 Formålet med en test en gang om måneden, er ikke at lave en test som på fyldestgørende vis klarlægger ALLE problemer, men at tilpas med problemer som kan rettes indtil næste test en måned senere.
 
-## Rekruttering af testere 
-Steve Krug opstiller disse spørgsmål som man kan forholde sig til i forhold til testere:
+## Rekruttering af testdeltagere 
+Steve Krug opstiller disse spørgsmål som man kan forholde sig til i forhold til testdeltagere:
 - Hvem skal man teste med?
 - Hvor mange skal man teste med?
 - Hvor finder du testerne?
@@ -51,7 +51,7 @@ Steve har gjort mine tidligere målgruppeanalyser ([link 1](https://jesp209i.git
 ### Rekruttering - hvor mange?
 SK nævner at andre anbefaler at bruge 5 brugere til test, da de vil finde 85 % af problemerne (Det kommer nok fra [Jakob Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)).
 
-Til "do-it-yourself usability testing" anbefaler Steve at bruge tre testere. Det handler nemlig ikke om at finde flest mulige problemer, men om at finde så mange problemer som du kan rette.
+Til "do-it-yourself usability testing" anbefaler Steve at bruge tre testere per omgang. Det handler nemlig ikke om at finde flest mulige problemer, men om at finde så mange problemer som du kan rette.
 
 Han nævner desuden at: 
 - de første tre brugere med stor sandsynlighed finde de mest betydelige problemer relateret til det der testes. 
@@ -62,13 +62,29 @@ Han nævner desuden at:
 - Når der testes med mere end 3 ad gangen, ender man med flere noter end man kan nå at bearbejde, og mange er noterne er om mindre alvorlige problemer. Dette gør det sværere at finde de mere seriøse problemer.
 > (punkterne er taget fra side 43 i Rocket surgery...)
 
+Det er iøvrigt vigtigt at pointere at man ikke kan bruge de samme testere til at teste det samme i en anden omgang, så rekruttering foregår fortløbende. Steve anbefaler dog at man "deler" gode testere med andre der udfører tests (i virksomheden eller i netværket).
+
 ### Rekruttering - hvorfra?
-Jeg springer lige hurtigt over dette emne, da vi allerede har etableret at det ikke er alfa og omega at finde testere der er repræsentanter for dine brugere. 
+Jeg springer lige hurtigt over dette emne, da vi allerede har etableret at det ikke er alfa og omega at finde testdeltagere der er repræsentanter for dine brugere. 
 
 En online invitation, hvor folk kan tilmeldig sig test og en screening af de tilmeldte, så man på forhånd har vurderet at de er seriøse om tilmeldingen.
 
 ### Rekruttering - kompensation
-Steve nævner at man godt kan nøjes med at sige tak, men i nogle tilfælde er det god stil at give et mindre pengebeløb eller endnu bedre en souvenir fra oplevelsen (eksempelvis en vareprøve)
+Steve nævner at man godt kan nøjes med at sige tak, men i nogle tilfælde er det god stil at give et mindre pengebeløb eller endnu bedre en souvenir fra oplevelsen (eksempelvis en vareprøve).
 
 ## Udvælg opgaver
+Lav først en liste med punkter som du vil have testdeltagerne skal udføre. Ud fra punkterne vælger du hvilke der skal testes:
+- De kritiske: disse punkter skal brugere kunne gennemføre
+- Problematikker der holder dig vågen om natten
+- Andre problemmatikker, som eksempelvis kommer fra kundeservice eller lignende.
 
+Skriv punkterne om til nogle scenarier. De skal være korte, men indeholde nok info til at testdeltageren kan udføre sit arbejde. Et scenarie kunne indeholde:
+- en karakterbeskrivelse
+- motivation
+- hvad der skal ske
+- enkelte relevante detaljer.
+
+Hvis en eller flere af ovenstående punkter ikke er relevante skal de udelades. Det sværeste er ikke at give nogle ledetråde i scenariet.
+
+# Refleksion
+Dette indlæg dækker groft kapitel 1 til 6 i bogen og dækker groft sagt de indledende øvelser der er inden man starter på at udføre den konkrete test. I et kommende indlæg vil jeg skrive om selve udførelsen af test og evaluering.
