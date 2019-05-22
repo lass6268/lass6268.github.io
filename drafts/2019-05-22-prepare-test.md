@@ -2,19 +2,19 @@
 layout: post
 title: Gør klar til brugertest
 subtitle: De indledende forberedelser
-tags: [uge 21, testing]
+tags: [uge 21, testing, usability]
 ---
 
 Jeg har været lidt tilbageholdende med at komme i gang med testing. Mest fordi jeg ikke havde fået indsnævret emnet tilstrækkeligt, så omfanget havde vokset sig utrolig stort. Nu har jeg så valgt at tage hul på emnet, med hjælp fra Steve Krugs bog "Rocket surgery made easy", hvor han beskriver sin egen "do-it-yourself usability testing". 
 
-# Hvem er Steve Krug
+# Hvorfor vælge dene tilgang
 Steve Krug arbejder med og skriver om brugertest: Det handler om at finde og rette usability problemer på websites. Han nævner dog i bogen at man sagtens kan bruge hans principper til mange andre produkter.
 
 Steve er umiddelbart ikke en teoretiker, hans viden kommer igennem praktisk erfaring med at udføre tests. Han læser sig op af andre teoretikere (i bogen nævner han eksempelvis [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/), som generelt er anset som en Usability guru).
 
-Jeg har tidligere læst han bog "Don't make me think", som jeg var meget begejstret for. Begge bøger er skrevet så de er nemme at læse og indholdet er rimelig let at forstå. Hans tilgang er praktisk og hans valg er velbegrundede.
+I "Rocket surgery made easy" beskriver han ikke en kvantitativ test, hvor man prøver at bevise noget ved at måle ting. Med "do-it-yourself usability testing" udfører man kvalitative tests for at opnå indsigt som du kan bruge til at forbedre dit produkt.
 
-I "Rocket surgery made easy" beskriver han ikke en kvantitativ test, hvor man prøver at bevise noget ved at måle ting. Med "do-it-yourself usability testing" udfører man kvalitative tests for at opnå indsigt som du kan bruge til at forbedre dit produkt
+Jeg har tidligere læst han bog "Don't make me think", som jeg var meget begejstret for. Begge bøger er skrevet så de er nemme at læse og indholdet er rimelig let at forstå. Hans tilgang er både overskuelig og praktisk og hans valg er velbegrundede, hvilket tiltaler mig i forhold til hvordan jeg godt kan lide at arbejde.
 
 # Planlægning
 Jeg har igennem hele projektet haft til hensigt at lave en testplan, men nu er det så sent i forløbet (der er 2 uger til vi afslutter projektet) at det virker overkill at producere en testplan.
@@ -46,6 +46,8 @@ I bogen påpejer han at det ikke er så vigtigt som man tror, at bruge repræsen
 
 Selv hvis man senere i forløbet tester med brugere som ikke umiddelbart repræsenterer dine brugere og vedkommende finder et problem, så skal man vurdere om en rigtig repræsentant ville være stødt på samme udfordring.
 
+Steve har gjort mine tidligere målgruppeanalyser ([link 1](https://jesp209i.github.io/2019-04-16-target-audience/) og [link 2](https://jesp209i.github.io/2019-05-19-target-audience-part2/)) lidt mindre relevante i forhold til testing - men jeg er nu alligevel glad for at have brugt tid på at skabe mig et billede af mine brugere.
+
 ### Rekruttering - hvor mange?
 SK nævner at andre anbefaler at bruge 5 brugere til test, da de vil finde 85 % af problemerne (Det kommer nok fra [Jakob Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)).
 
@@ -61,9 +63,12 @@ Han nævner desuden at:
 > (punkterne er taget fra side 43 i Rocket surgery...)
 
 ### Rekruttering - hvorfra?
+Jeg springer lige hurtigt over dette emne, da vi allerede har etableret at det ikke er alfa og omega at finde testere der er repræsentanter for dine brugere. 
 
-### Rekruttering - ?
+En online invitation, hvor folk kan tilmeldig sig test og en screening af de tilmeldte, så man på forhånd har vurderet at de er seriøse om tilmeldingen.
 
+### Rekruttering - kompensation
+Steve nævner at man godt kan nøjes med at sige tak, men i nogle tilfælde er det god stil at give et mindre pengebeløb eller endnu bedre en souvenir fra oplevelsen (eksempelvis en vareprøve)
 
 ## Udvælg opgaver
 
