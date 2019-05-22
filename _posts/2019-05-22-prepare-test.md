@@ -7,7 +7,7 @@ tags: [uge 21, testing, usability]
 
 Jeg har været lidt tilbageholdende med at komme i gang med testing. Mest fordi jeg ikke havde fået indsnævret emnet tilstrækkeligt, så omfanget havde vokset sig utrolig stort. Nu har jeg så valgt at tage hul på emnet, med hjælp fra Steve Krugs bog "Rocket surgery made easy", hvor han beskriver sin egen "do-it-yourself usability testing". 
 
-# Hvorfor vælge dene tilgang
+# Hvorfor vælge denee tilgang
 Steve Krug arbejder med og skriver om brugertest: Det handler om at finde og rette usability problemer på websites. Han nævner dog i bogen at man sagtens kan bruge hans principper til mange andre produkter.
 
 Steve er umiddelbart ikke en teoretiker, hans viden kommer igennem praktisk erfaring med at udføre tests. Han læser sig op af andre teoretikere (i bogen nævner han eksempelvis [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/), som generelt er anset som en Usability guru).
