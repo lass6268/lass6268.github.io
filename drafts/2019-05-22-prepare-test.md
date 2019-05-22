@@ -35,5 +35,35 @@ Steve vil gerne have at relevante udviklerne og andre stakeholderes er med til b
 Formålet med en test en gang om måneden, er ikke at lave en test som på fyldestgørende vis klarlægger ALLE problemer, men at tilpas med problemer som kan rettes indtil næste test en måned senere.
 
 ## Rekruttering af testere 
-Hver gang du 
+Steve Krug opstiller disse spørgsmål som man kan forholde sig til i forhold til testere:
+- Hvem skal man teste med?
+- Hvor mange skal man teste med?
+- Hvor finder du testerne?
+- Hvilken form for kompensation skal de have for deres tid?
+
+### Rekruttering - hvem?
+I bogen påpejer han at det ikke er så vigtigt som man tror, at bruge repræsentanter der ligner dine brugere. Især i de tidlige test, hvor man kan antage at der er grundlæggende navigationsmæssige eller strukturelle usability problemer med produktet. Det vil de fleste testere kunne påpeje, uden viden eller kendskab til domænet.
+
+Selv hvis man senere i forløbet tester med brugere som ikke umiddelbart repræsenterer dine brugere og vedkommende finder et problem, så skal man vurdere om en rigtig repræsentant ville være stødt på samme udfordring.
+
+### Rekruttering - hvor mange?
+SK nævner at andre anbefaler at bruge 5 brugere til test, da de vil finde 85 % af problemerne (Det kommer nok fra [Jakob Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)).
+
+Til "do-it-yourself usability testing" anbefaler Steve at bruge tre testere. Det handler nemlig ikke om at finde flest mulige problemer, men om at finde så mange problemer som du kan rette.
+
+Han nævner desuden at: 
+- de første tre brugere med stor sandsynlighed finde de mest betydelige problemer relateret til det der testes. 
+- Det kræver mindre arbejde at finde 3 testere end at finde 5 eller flere.
+- Det er vigtigere at lave flere runder med test. Når man tester med færre testere er det nemmere at overskue flere omgange
+- Test med tre gør det muligt at teste og debriefe på samme dag
+- Når der kun testes få personer er det nemmere at opfordre folk til at komme og observere.
+- Når der testes med mere end 3 ad gangen, ender man med flere noter end man kan nå at bearbejde, og mange er noterne er om mindre alvorlige problemer. Dette gør det sværere at finde de mere seriøse problemer.
+> (punkterne er taget fra side 43 i Rocket surgery...)
+
+### Rekruttering - hvorfra?
+
+### Rekruttering - ?
+
+
+## Udvælg opgaver
 
