@@ -12,7 +12,7 @@ Til at gennemføre test skal der bruges:
 - en facilitator
 - et testrum
 - overslag over testens tidsforbrug
-- viden om hvordan test-deltagere skal behandles
+- viden om hvordan test-deltagere skal håndteres
 
 ## Facilitatorens job
 Facilitatoren fungerer som en guide og vejleder for deltagerene. Han skal sætte deltagerne igang, få dem til at fortsætte, og sørge for at oplevelsen er behagelig. UDEN at besvare deltagerens spørgsmål om opgaverne/produktet der testes. Det er vigtigt at facilitatoren hele tiden får deltageren til at italesætte sine tanker og observationer undervejs i testen.
@@ -43,8 +43,9 @@ Testene består følgende "faser":
 - klargøring til test 10 min
 - [Test-drejebog fra SK's website](http://sensible.com/downloads/test-script-web.pdf)
 
-## Behandling af test-deltagere
+## Håndtering af test-deltagere
 Test-deltagerne skal naturligvis behandles ordentligt. Hvis de bliver usikre eller fortvivlede skal de forsikres om at deres indput til testen er værdifuldt. Opfordr dem til at snakke hvis de er gået i stå, men sørg for at de bliver behandlet etisk forsvarligt.
+- ['Ting en terapeut ville sige' fra SK's website](http://sensible.com/downloads/things-a-therapist-would-say.pdf)
 
 # Observatører
 Det er en god ide at få folk til at observere når testene bliver udført. Der opfordres til at også andre end udviklerne deltager som observatører (såsom chefer og marketingsfolk).
@@ -89,3 +90,9 @@ Efter afrapporteringsmødet skrives der en email der kort opsummerer dagen aktiv
 
 # Refleksion
 Dette indlæg dækker overordnet kapitel 8-9-10. Jeg har undladt flere detaljer, og kan kun opfordre til at man selv finder en kopi af bogen og går igang. Steve Krug har mange gode betragtninger med undervejs, så jeg føler at man får meget god viden med videre.
+
+Min umiddelbare vurdering er at denne type test er nem at lære, men svær at mestre. De fleste af koncepterne som Steve beskriver er jo relativ simple i sig selv, men det hele indgår i en helhed som bliver kompleks. Der er en hvis balance i den måde Steve Krug beskriver hvordan man skal udføre og bearbejde testdata på. Der er en bevisthed om at man ikke kan nå at komme helt til bunds i alle fejl. Selv hvis man kunne finde alle problemstillinger, kan det næbbe betale sig at bruge tid på at rette alt. 
+
+Der lægges vægt på at fokuse på de problemer der er mest kritiske - hvis de ikke bliver løst først, vil de altid eksistere. Det betyder dog ikke at udviklere/andre ikke må rette "de små" problemer, hvis de støder på noget under testen. Eksempelvis stavefejl, som nemt kan rettes.
+
+SK skriver også meget om hvordan man håndterer test-deltager: Dels hvordan man undgår at påvirke dem, og dels hvordan man opfordrer dem til at fortælle så meget som muligt. Kommer man til at påvirke, eller får man ikke spurgt ind på det rigtige tidspunkt, kan det betyde en dårlig, eller endda ødelagt test. Dette er igen med diciplin der på overfladen er simpel, men i virkeligheden er en kompleks størrelse da mennesker er så forskellige.
