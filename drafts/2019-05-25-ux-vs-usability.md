@@ -1,0 +1,31 @@
+---
+layout: post
+title: UX vs Usability
+subtitle: Kladde underoverskrift
+tags: [uge 21, testing, UX vs Usability, usability]
+---
+
+Jeg er ved at lave lidt opsamling og går derfor igennem mine læringsplaner.  Her opdager jeg at jeg har spruget en undersøgelse mellem hvad UX og Usability er for nogle størrelser.
+
+Til det formål havde jeg fundet en masse litteratur på nettet:
+- [The Difference (And Relationship) Between Usability And User Experience](https://usabilitygeek.com/the-difference-between-usability-and-user-experience/)
+- [Usability vs. User Experience: What's the difference?](https://www.slideshare.net/domain7/ux-vs-usability)
+- [When to use which user-experience research methods](https://www.xdstrategy.com/wp-content/uploads/2018/08/When-to-Use-Which-User-Experience-Research-Methods-2014-10-12-Print.pdf)
+- [Usability engineering methods for software developers](https://www.researchgate.net/profile/Andreas_Holzinger/publication/220422205_Usability_Engineering_Methods_For_Software_Developers/links/5460e30c0cf27487b4526442/Usability-Engineering-Methods-For-Software-Developers.pdf)
+- [The Ultimate Guide—Difference Between Usability and User Experience](https://www.mockplus.com/blog/post/difference-between-usability-and-user-experience)
+
+Målet var at:
+- finde forskellen mellem UX og usability
+- finde klare afgrænsninger på begreberne, og opnå bevisthed over hvornår der er sammenfald mellem de to ting.
+
+Nu hvor jeg har indskrænket emnet til kun at omfatte usability (for det er det Steve Krug beskæftiger sig med) er det ikke helt lige så relevant at kigge på UX. Men jeg vil alligevel lige definere de to begrebers relation på baggrund af den nederste artikel i listen, "The ultimate Guide - Difference Betweeen Usability and User Experience":
+
+> _"For a website, the only usability goals is "easy to use". However, the goal of the user experience is about the overall feel a user gets before, during, and after using the website. Therefore, usability is related to how easy it is for the user to complete the task while using the site; the user experience focuses on the user's perception of how the site interacts with him."_
+![](/img/uxusa.png)
+> [Billede og tekst er hapset herfra](https://www.mockplus.com/blog/post/difference-between-usability-and-user-experience)
+
+Der er selvfølgelig mere man kunne gå i dybden med om disse to emner og deres indbyrdes relation, men jeg vil nøjes med at konkludere (som på billedet):
+- Usability er et smallere og mere fokuseret område
+- UX favner bredt og er helhedsorienteret
+
+Dermed bliver usability en del af UX... der kan man bare se :)
