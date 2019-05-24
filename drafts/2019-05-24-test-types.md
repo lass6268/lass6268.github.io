@@ -12,8 +12,8 @@ Test et eksisterende produkt, enten dit eget eller en konkurents.
 ## Sidedesigns
 ## Virkende prototyper og videre derfra
 Se mine to tidligere indlæg om test:
--[Gør klar til brugertest](https://enmango.dk/2019-05-22-prepare-test/)
--[Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)
+- [Gør klar til brugertest](https://enmango.dk/2019-05-22-prepare-test/)
+- [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)
 
 # Refleksion
 Dette indlæg er baseret på kapitel 4.
