@@ -1,7 +1,6 @@
 ---
 layout: post
 title: UX vs Usability
-subtitle: Kladde underoverskrift
 tags: [uge 21, testing, UX vs Usability, usability]
 ---
 
