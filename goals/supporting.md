@@ -17,6 +17,6 @@ Point : 5 ects
 ## Fælles
 - Brug git submodule til at linke flere projekt-repos i samme repo
 - Brug Jekyll til at dokumentere processen (dette site)
-- Lær markdown at kende (formateringssprog som bruges på github) - indlæg til Jekyll skrives i markdown
+- Bruge markdown (formateringssprog som bruges på github til dokumentation og lignende) - indlæg til Jekyll skrives i markdown (og html)
 - Lær at bruge Android Studio/IntelliJ Idea til app/web-udvikling (Studio er baseret på IntelliJ)
 
