@@ -38,19 +38,37 @@ Her har jeg her indsat en lille oversigt over test og formål, så man slipper f
 
 Test af eksisterende produkt og konkurrerende produkt er bevidst udeladt fra listen. I forbindelse med projektet har vi haft snakket om  konkurrenter til vores projekt, lidt for at se hvad de har gjort, men vi har ikke brugt det så aktivt, og slet ikke til test.
 
-# 1. Skitsetest
-For at afprøve testen, lavede jeg tegningen nedenfor og viste den til min kæreste.
+# Skitse
+For at afprøve testen, har jeg lavet tegningen nedenfor og vist den til min kæreste.
 
 ![](/img/skitse.jpg)
 
-Det er selvfølgelig lidt snyd, fordi han kender selvfølgelig alt til mit projekt, men han legede med på legen.
+Det er lidt snyd, fordi han kender mit projekt, men han legede med på legen.
 
 __Jeg spurgte:__ _"Hvad får du ud af denne tegning? Hvad tror du det skal forestille?"_<br>
 __Han svarede:__ _"Det ligner en mand, der sender noget ud fra sin telefon til nogle andre brugere, hvoraf de tre svarer ham"_
 
 Jeg er rimelig godt tilfreds med svaret, for det afspejler rimelig godt det koncept vi går efter. Jeg var bange for at han ville have sagt _"jeg tror det er en dating-service"_.
 
+Tidsforbrug på tegning: max 2 minutter.<br>
 Tidsforbrug på selve testen: max 2 minutter.
 
-# Wireframetest
+# Wireframe og sidedesign
+Vi lavede faktisk nogle designs så vi havde nogle arbejdstegninger. Både til at arbejde efter, men også til at vise frem til et møde med opgavestillerne.
+
+Nedenstående er sådan et eksempel som jeg har produceret.
+
 ![](/img/wireframe.png)
+
+Billedet er lavet før jeg havde fået indskrænket mit testemne og derfor vi er nærmest ude i en blanding af en wireframe og nogle sidedesigns. Det er naturligvis en relativ simpel app, men der er lige for mange deltaljer til at være en wireframe, og lidt for få deltaljer til at vise sidedesigns.
+
+Billederne blev ikke aftestet på uvidende test-deltagere, men vist frem til opgavestillerne, som så gav deres kommentarer til dem. Ud fra disse billeder blev det eksempelvis besluttet at de hellere ville have et eksempel på "fane-navigation" fordi burger-menu med tilhørende navigationsskuffe skjuler de funktioner brugerne skal bruge.
+
+Tidsforbrug på billeder: 15-30 minutter<br>
+Tidsforbrug på selve "testen": ca 15-20 minutter
+
+Det er vigtigt at bemærke at selvom "testen" slet ikke var efter bogen, skabte den stadig værdi:
+- den skabte afklaring omkring navigationsparadigme
+- den skabte en forståelse for retningen på den visuelle identitet mellem udviklere og opgavestillere
+
+# Usability
