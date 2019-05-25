@@ -86,16 +86,24 @@ Jeg springer over at skrive et testmanuskript (der ligger [et eksempel på Steve
 
 Jeg har fundet de to mest grundlæggende use cases frem, som jeg vil omskrive til testopgaver.
 
-| Use Case titel | Beskrivelse |
-|---|---|
-| Anmodning om oversættelse | “Turisten” ser en tekst som han ikke forstår. Han bruger en klient til at sende teksten. Efter noget tid får turisten svar. |
-| Besvar oversættelsesanmodning | “Oversætteren” modtager en tekst. Oversætteren indskriver en ny oversat tekst (og gemmer/sender). |
+| Use Case titel | UC Beskrivelse | Usability opgave |
+|---|---|---|
+| Anmodning om oversættelse | “Turisten” ser en tekst som han ikke forstår. Han bruger en klient til at sende teksten. Efter noget tid får turisten svar. | _"Du sidder med en udenlandsk tekst du ikke forstår. Teksten er 'Yksi Kaksi Kolme' og du ved at teksten er på finsk. Indsend teksten så du kan få den oversat."_ |
+| Besvar oversættelsesanmodning | “Oversætteren” modtager en tekst. Oversætteren indskriver en ny oversat tekst (og gemmer/sender). | _"Du har modtaget en besked om at oversætte en tekst fra finsk til dansk. Du besvarer beskeden med 'en to tre'."_ |
 
-__Opgave 1:__ <br> 
-_"Du sidder med en udenlandsk tekst du ikke forstår. Du ved at teksten er på finsk. Indsend teksten så du kan få den oversat."
+Jeg er ikke sikker på at mine usability opgaver er gode, men Steve Krug anbefaler faktisk også at man kører en pilottest på sine opgaver, eksempelvis med venner eller familie som test-deltagere, så er der mulighed for tilpasse og omskrive testene, inden det rigtigt gælder.
+
+Estimeret tidsforbrug på forberedelse: 1-2-3 dage, måske mere hvis pilottesten også udføres<br>
+Tidsforbrug på selve "testen": ca 30-40 minutter
 
 ## Usability-testens formål
-Få indblik i hvor produktet bør forbedres.
+Få indblik i hvilke aspekter af produktet der bør forbedres.
 
 # Refleksion
-Jeg producerede både en android app og en web app. Test af hver af dem?
+Min situation er naturligvis speciel, fordi jeg er på akademisk mission og jeg arbejder med flere forskellige emner. Eksempelvis er jeg igang med både at udvikle en android app og en web klient der begge bruger samme api. De skal kunne nogenlunde det samme, men der er trods alt forskel på de to platforme. Betyder det at jeg bør udføre test på begge programmer? Ja det bør jeg egentlig gøre, det er ikke sikkert at brugere på en mobil platform forventer det samme som brugere der arbejder i browser. 
+
+Hvis man går efter en ensartet brugeroplevelse på de forskellige platforme kan man måske spare tests på den ene platform væk. Måske.
+
+Men i min situation hvor jeg principielt sidder som primær udvikler på to projekter og "head of" brugertest, tillader tiden desværre ikke at jeg går i dybden med det hele. Og i dette tilfælde vælger jeg ikke at fokusere på brugertest.
+
+Det fede ved dette emne er nogle af de relativ simple værktøjer man kan tage med. Jeg har helt sikkert tænkt mig at arbejde mere bevidst med især skitse- og wireframe-testen. Og Skulle jeg nogensinde få mulighed for at deltage som observatør til en usability test er jeg sikker på at jeg vil gribe den.
