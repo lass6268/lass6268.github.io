@@ -7,7 +7,7 @@ tags: [uge 21, testing, usability]
 
 Den berømte testplan, der tilsyneladende var et fabeldyr... indtil nu!
 
-Da jeg på nuværende tidspunkt er meget sent i processen, har jeg her forsøgt at redegøre for __hvad jeg skulle have gjort__. Testplanen er skrevet ud fra Steve Krugs principper, hvilket egentlig gør det nemt at planlægge:
+Testplanen er skrevet ud fra Steve Krugs principper, hvilket egentlig gør det nemt at planlægge:
 - Man skal begynde at teste tidligere end man tror giver mening
 - Man skal teste en gang om måneden
 
@@ -24,26 +24,18 @@ Jeg har brugt den sidste torsdag i hver måned som "fast testdag", ud fra en for
 | 5. | 30. maj | Usability test af anden udviddelse |
 |    | 11. juni | __Afslutning af projekt__ (ingen test) |
 
-Jeg går lidt mere i detaljer om hver enkelt test efter næste afsnit.
+Test af eksisterende produkt og konkurrerende produkt er bevidst udeladt fra testplanen. I forbindelse med projektet har vi haft snakket om  konkurrenter til vores projekt, lidt for at se hvad de har gjort, men vi har ikke brugt dette så aktivt.
 
-## Repetition af typer og formål
-Her har jeg her indsat en lille oversigt over test og formål, så man slipper for at bladre væk fra indlægget..
-
-| Testtype | Formål |
-|---|---|
-| Skitse |  Finde ud af om det overordnede koncept giver brugeren tilstrækkeligt til at vide hvad produktet går på |
-| Wireframe | Undersøge om den planlagte overordnede opstilling, navigationen og navnigningen af elementer logisk for brugere |
-| Sidedesign | Undersøge om den planlagte "færdige" visuelle identitet for den enkelte side/skærm introducerer nogle usability problemstillinger |
-| Usability test | Få indblik i hvor produktet bør forbedres |
-
-Test af eksisterende produkt og konkurrerende produkt er bevidst udeladt fra listen. I forbindelse med projektet har vi haft snakket om  konkurrenter til vores projekt, lidt for at se hvad de har gjort, men vi har ikke brugt det så aktivt, og slet ikke til test.
+Jeg er på nuværende tidspunkt meget sent i processen. Derfor har jeg her forsøgt at redegøre for __hvad jeg skulle have gjort__ og forklare __hvad jeg har gjort__ om hver enkelt testtype. 
 
 # Skitse
-For at afprøve testen, har jeg lavet tegningen nedenfor og vist den til min kæreste.
+Denne type test har jeg slet ikke overvejet at lave. Og hvis jeg på en eller anden måde har lavet den alligevel undervejs, så har det været på et ubevist plan for selv at få føling med konceptet.
+
+Men for at afprøve denne test på et mere bevist plan, har jeg lavet tegningen nedenfor og vist den til min kæreste.
 
 ![](/img/skitse.jpg)
 
-Det er lidt snyd, fordi han kender mit projekt, men han legede med på legen.
+Han er egentlig en forsker testdeltager, eftersom han kender mit projekt, men han legede med på legen og jeg fik afprøvet testtypen på et principielt niveau:
 
 __Jeg spurgte:__ _"Hvad får du ud af denne tegning? Hvad tror du det skal forestille?"_<br>
 __Han svarede:__ _"Det ligner en mand, der sender noget ud fra sin telefon til nogle andre brugere, hvoraf de tre svarer ham"_
@@ -53,10 +45,18 @@ Jeg er rimelig godt tilfreds med svaret, for det afspejler rimelig godt det konc
 Tidsforbrug på tegning: max 2 minutter.<br>
 Tidsforbrug på selve testen: max 2 minutter.
 
+Udbytte af testen er at konceptet umiddelbart holder vand... (især hvis brugeren allerede kender konceptet...)<br>
+Hvis jeg havde lavet dette i starten af projektet kunne jeg relativt nemt ha fået en pejling på om det var forståeligt fra en brugers synspunkt. Hvis ja - fint! Hvis nej - tilbage til tegnebrættet.
+
+Jeg har ikke sat en dato på denne test oppe i oversigten, men den ville nok kunne udføres en dag eller to efter projektstart. Man kunne fortsætte med at lave denne type test løbende indtil første egentlige testdato, for at rafinere konceptet yderligere.
+
+## Skitsetestens formål
+Det er, at finde ud af om det overordnede koncept giver brugeren tilstrækkeligt til at vide hvad produktet går på
+
 # Wireframe og sidedesign
 Vi lavede faktisk nogle designs så vi havde nogle arbejdstegninger. Både til at arbejde efter, men også til at vise frem til et møde med opgavestillerne.
 
-Nedenstående er sådan et eksempel som jeg har produceret.
+Nedenstående er et eksempel på en wireframe som jeg har produceret tidligere i processen.
 
 ![](/img/wireframe.png)
 
@@ -67,8 +67,35 @@ Billederne blev ikke aftestet på uvidende test-deltagere, men vist frem til opg
 Tidsforbrug på billeder: 15-30 minutter<br>
 Tidsforbrug på selve "testen": ca 15-20 minutter
 
+Hvad var så udbyttet af testen?
+
 Det er vigtigt at bemærke at selvom "testen" slet ikke var efter bogen, skabte den stadig værdi:
 - den skabte afklaring omkring navigationsparadigme
 - den skabte en forståelse for retningen på den visuelle identitet mellem udviklere og opgavestillere
 
+## Wireframetestens formål
+Undersøge om den planlagte overordnede opstilling, navigationen og navnigningen af elementer logisk for brugere.
+
+## Sidedesigntestens formål
+Undersøge om den planlagte "færdige" visuelle identitet for den enkelte side/skærm introducerer nogle usability problemstillinger.
+
 # Usability
+Denne type test har jeg ikke gennemført i praktis i forbindelse med dette projekt. Så gennemgangen her bliver på et rimelig teoretisk grundlag.
+
+Jeg springer over at skrive et testmanuskript (der ligger [et eksempel på Steve Krugs hjemmeside](http://sensible.com/downloads/test-script-web.pdf)). Og jeg vil nøjes med at konstatere at, når man henter test-deltagere ind, så skal de afgive et samtykke til at blive optaget (man kan se et [eksempel på en samtykke-formular](http://sensible.com/downloads/permission-form.pdf) på SKs hjemmeside).
+
+Jeg har fundet de to mest grundlæggende use cases frem, som jeg vil omskrive til testopgaver.
+
+| Use Case titel | Beskrivelse |
+|---|---|
+| Anmodning om oversættelse | “Turisten” ser en tekst som han ikke forstår. Han bruger en klient til at sende teksten. Efter noget tid får turisten svar. |
+| Besvar oversættelsesanmodning | “Oversætteren” modtager en tekst. Oversætteren indskriver en ny oversat tekst (og gemmer/sender). |
+
+__Opgave 1:__ <br> 
+_"Du sidder med en udenlandsk tekst du ikke forstår. Du ved at teksten er på finsk. Indsend teksten så du kan få den oversat."
+
+## Usability-testens formål
+Få indblik i hvor produktet bør forbedres.
+
+# Refleksion
+Jeg producerede både en android app og en web app. Test af hver af dem?
