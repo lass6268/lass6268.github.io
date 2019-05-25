@@ -5,73 +5,19 @@ subtitle: Hvad gør man efter man har udfør og evalueret
 tags: [uge x, hest, dyr, pony]
 ---
 
-Bemærk at i `tags` skal ugenr altid stå først (min egen konvention).
+Udbedre problemer - hvad er den mindste mængde arbejde du kan udføre for at afhjælpe et problem
+- tweak, ikke redesign
+- fjern et eller andet
 
-blogindlæggetsfilens navn skal starte med datoen efter følgende format: `2019-03-14-titel-på-blogpost.md`
+de typsike problemer
 
-markdown kan bruges til at formatere teksten:
-```markdown
-# h1 overskrift
-## h2 overskrift
-### h3 overskrift
-#### h4 overskrift
-_kursiv tekst_
+Hvordan sikrer man at tingene faktisk bliver udbedret?
 
-__fed tekst__
+# Refleksion
+kapitel 11, 12 og 13.
 
-![alt tekst](/img/hello_world.jpeg "billede mouseover tekst")
+14 remote testing
 
-[eksternt link](https://google.com)
+.15 yderlige læsning
 
-[internt relativt link](/blog)
-```
-# h1 overskrift
-## h2 overskrift
-### h3 overskrift
-#### h4 overskrift
-_kursiv tekst_
-
-__fed tekst__
-
-![alt tekst](/img/hello_world.jpeg "billede mouseover tekst")
-
-[eksternt link](https://google.com)
-
-[internt relativt link](/blog)
-
-```markdown
-#### uordnet liste:
-- første punkt
-- andet punkt
-- tredje punkt
-- fjerde punkt
-  - underpunkt (2 spaces foran)
-    - underunderpunkt
-- femte punkt (tilbage på linje med de andre)
-```
-
-#### uordnet liste:
-- første punkt
-- andet punkt
-- tredje punkt
-- fjerde punkt
-  - underpunkt (2 spaces foran)
-    - underunderpunkt
-- femte punkt (tilbage på linje med de andre)
-
-
-```markdown
-#### tabel:
-| tabeloverskrift1 | tabeloverskrift2 | tabeloverskrift3 | tabeloverskrift4 |
-|---|---|---|---|
-| hest | ko | marsvin | undulat |
-| får | grin | torsk | papegøje |
-```
-
-#### tabel:
-
-| tabeloverskrift1 | tabeloverskrift2 | tabeloverskrift3 | tabeloverskrift4 |
-|---|---|---|---|
-| hest | ko | marsvin | undulat |
-| får | grin | torsk | papegøje |
-
+.16 afslutning
