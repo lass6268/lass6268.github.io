@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Den teoretiske testplan
+title: Testplan og eksekvering
 subtitle: Bedre kendt som historien om hvad jeg skulle have gjort
 tags: [uge 21, testing, usability]
 ---
@@ -104,6 +104,6 @@ Min situation er naturligvis speciel, fordi jeg er på akademisk mission og jeg 
 
 Hvis man går efter en ensartet brugeroplevelse på de forskellige platforme kan man måske spare tests på den ene platform væk. Måske.
 
-Men i min situation hvor jeg principielt sidder som primær udvikler på to projekter og "head of" brugertest, tillader tiden desværre ikke at jeg går i dybden med det hele. Og i dette tilfælde vælger jeg ikke at fokusere på brugertest.
+Men i min situation hvor jeg principielt sidder som primær udvikler på to projekter og "head of" brugertest, tillader tiden desværre ikke at jeg går i dybden med det hele. Og i dette tilfælde vælger jeg ikke at fokusere på brugertest. Hvis jeg var gået igang med emnet testing tidligere, havde jeg også haft bedre mulighed for opfølgning. Intentionen var der, men men får hurtigt travlt med andre ting. Jeg kan godt se det komiske at skrive en testplan til sidst i forløbet.
 
 Det fede ved dette emne er nogle af de relativ simple værktøjer man kan tage med. Jeg har helt sikkert tænkt mig at arbejde mere bevidst med især skitse- og wireframe-testen. Og Skulle jeg nogensinde få mulighed for at deltage som observatør til en usability test er jeg sikker på at jeg vil gribe den.
