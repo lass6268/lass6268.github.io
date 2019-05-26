@@ -7,6 +7,16 @@ tags: [uge 21, testing, usability]
 
 Jeg har været lidt tilbageholdende med at komme i gang med testing. Mest fordi jeg ikke havde fået indsnævret emnet tilstrækkeligt, så omfanget havde vokset sig utrolig stort. Nu har jeg så valgt at tage hul på emnet, med hjælp fra Steve Krugs bog "Rocket surgery made easy", hvor han beskriver sin egen "do-it-yourself usability testing". 
 
+# Læsevejledning
+Dette indlæg er det første i min gennemgang af Steve Krugs bog "Rocket Surgery made easy", som jeg bruger som basis for mit emne om brugertest.
+
+Jeg anbefaler (ud over at læse bogen) at du læser disse indlæg først:
+2. [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)
+3. [Brugertestens efterspil](https://enmango.dk/2019-05-26-after-test/) 
+
+Til at belyse andre testtyper kan du også læse dette indlæg:
+- [Typer af tests](https://enmango.dk/2019-05-24-test-types/)
+
 # Hvorfor vælge denne tilgang
 Steve Krug arbejder med og skriver om brugertest: Det handler om at finde og rette usability problemer på websites. Han nævner dog i bogen at man sagtens kan bruge hans principper til mange andre produkter.
 
