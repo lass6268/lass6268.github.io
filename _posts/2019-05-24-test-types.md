@@ -5,7 +5,7 @@ subtitle: Stadig i "gør det selv" style
 tags: [uge 21, testing, usability]
 ---
 
-Steve Krug siger at man skal begynde at teste så snart man går igang med et projekt. Problemet er, hvordan tester man tidligtm når der endnu ikke er produceret noget?
+Steve Krug siger at man skal begynde at teste så snart man går igang med et projekt. Problemet er, hvordan tester man tidligt når der endnu ikke er produceret noget?
 
 # Læsevejledning
 Dette indlæg er en del af min gennemgang af Steve Krugs bog "Rocket Surgery made easy", som jeg bruger som basis for mit emne om brugertest.
