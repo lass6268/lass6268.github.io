@@ -5,7 +5,17 @@ subtitle: Eksekvering, observationer og evaluering
 tags: [uge 21, testing, usability]
 ---
 
-Dette blogindlæg er en fortsættelse af [mit sidste indlæg](https://enmango.dk/2019-05-22-prepare-test/). Her vil jeg komme ind på hvordan en test udføres, hvem der deltager og deres roller samt hvordan man afslutter sådan en omgang.
+Her vil jeg komme ind på hvordan en test udføres, hvem der deltager og deres roller samt hvordan man afslutter sådan en omgang.
+
+# Læsevejledning
+Dette blogindlæg er en fortsættelse af mit sidste indlæg. Det er nummer 2 i min gennemgang af Steve Krugs bog "Rocket Surgery made easy", som jeg bruger som basis for mit emne om brugertest.
+
+Du kan læse mere om emnet i disse blogindlæg:
+- [Gør klar til brugertest](https://enmango.dk/2019-05-22-prepare-test/)
+- [Brugertestens efterspil](https://enmango.dk/2019-05-26-after-test/) 
+
+Til at belyse andre testtyper kan du også læse dette indlæg:
+- [Typer af tests](https://enmango.dk/2019-05-24-test-types/)
 
 # Test
 Til at gennemføre test skal der bruges:
