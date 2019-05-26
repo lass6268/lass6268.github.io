@@ -7,6 +7,15 @@ tags: [uge 21, testing, usability]
 
 Steve Krug siger at man skal begynde at teste så snart man går igang med et projekt- Problemet er, hvordan tester man noget som endnu ikke er lavet?
 
+# Læsevejledning
+Dette indlæg er en del af min gennemgang af Steve Krugs bog "Rocket Surgery made easy", som jeg bruger som basis for mit emne om brugertest.
+
+Du kan læse mere om emner i disse blogindlæg:
+- [Gør klar til brugertest](https://enmango.dk/2019-05-22-prepare-test/) 
+- [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)
+- [Brugertestens efterspil](https://enmango.dk/2019-05-26-after-test/)
+
+# Eksisterende og/eller konkurrerende produkter
 Hvis der skal laves en ny udgave af et produkt, kan man udføre tests på det eksisterende.
 - Du lærer noget om de fejl der er begået i det eksisterende så de kan undgås i det nye.
 
