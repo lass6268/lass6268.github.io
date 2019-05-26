@@ -30,10 +30,12 @@ Steve beskriver også den typsike modstand der kommer fra udviklere og lignende 
   - De problemer vi valgte i forbindelse med evalueringen var de mest kritiske, og bør blive håndteret hurtigst muligt. Ændringen der snakkes om, kan selv blive ændret, udskudt eller annulleret og så vil du fortsat have samme problemstilling.
 - _"Det kommer til at føles som noget værre sjusk."_
   - Det giver en følelse af utilfredshed hvis der sniger sig en masse "hovsa"-løsninger ind i projektet. _"But even though a piece of duck tape covering a hole in your pants may not be pretty, it's still better than a hole."_ (Side 113, Rocket Surgery)
-- _"Det kan vi ikke rette lige nu, for det har vi ikke tid til."_
+- _"Det har vi ikke tid til at rette lige nu."_
   - Det er muligvis korrekt at der ikke er tid til at implementere den perfekte løsning, men som sagt ovenfor, så arbejder vi stadig med de mest kritiske problemstillinger, og der bør gøres noget for at afhjælpe dem.
 
-# Hvordan sikrer man at tingene faktisk bliver udbedret?
+# Grunden til at ting ikke bliver udbedret
+I bogen beskriver SK også at selvom folk er enige i at usability problemerne der er fundet skal udbedres, sker det ofte at der ikke sker det noget ved tingene
+
 
 ## De fire fortabte kapitler
 De følgende kapitler har jeg valgt ikke at koncenterere mig så meget om - her er dog et ekstemt kort resumé.
