@@ -10,9 +10,9 @@ Jeg har været lidt tilbageholdende med at komme i gang med testing. Mest fordi 
 # Læsevejledning
 Dette indlæg er det første i min gennemgang af Steve Krugs bog "Rocket Surgery made easy", som jeg bruger som basis for mit emne om brugertest.
 
-Du kan læse mere om emner i disse blogindlæg:<br>
-2. [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)<br>
-3. [Brugertestens efterspil](https://enmango.dk/2019-05-26-after-test/) 
+Du kan læse mere om emnet i disse blogindlæg:
+- [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)<br>
+- [Brugertestens efterspil](https://enmango.dk/2019-05-26-after-test/) 
 
 Til at belyse andre testtyper kan du også læse dette indlæg:
 - [Typer af tests](https://enmango.dk/2019-05-24-test-types/)
