@@ -11,8 +11,8 @@ Steve Krug skriver også om hvad man gør når man er færdig med at teste og ev
 Dette indlæg er det sidste i min gennemgang af Steve Krugs bog "Rocket Surgery made easy", som jeg bruger som basis for mit emne om brugertest.
 
 Jeg anbefaler (ud over at læse bogen) at du læser disse indlæg først:
-1. [Gør klar til brugertest](https://enmango.dk/2019-05-22-prepare-test/) 
-2. [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)
+- [Gør klar til brugertest](https://enmango.dk/2019-05-22-prepare-test/) 
+- [Udfør brugertest](https://enmango.dk/2019-05-24-do-testing/)
 
 Til at belyse andre testtyper kan du også læse dette indlæg:
 - [Typer af tests](https://enmango.dk/2019-05-24-test-types/)
