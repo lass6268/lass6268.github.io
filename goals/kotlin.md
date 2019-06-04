@@ -20,7 +20,7 @@ Point : 10 ects
 ### Færdigheder: Jeg vil gerne kunne anvende, afprøve, analyse, sammenligne o.s.v
 - Udvikle mobilapplikationer ved at anvende et dedikeret programmeringssprog
 - bruge eksterne pakker til at udvidde mit programs potentiale
-- få mit program til at forbinde til eksterne services, specifikt et web-API
+- udvikle et program der kan consume et web-API
 
 ### Kompetencer: Jeg vil gerne kunne kombinere, ændre, diskutere, kontrollere o.s.v.
 - kunne overveje det sprog/den udviklingsplatform som passer til den konkrete app-opgave
