@@ -19,4 +19,4 @@ Point : 5 ects
 - Brug Jekyll til at dokumentere processen (dette site)
 - Bruge markdown (formateringssprog som bruges på github til dokumentation og lignende) - indlæg til Jekyll skrives i markdown (og html)
 - Lær at bruge Android Studio/IntelliJ Idea til app/web-udvikling (Studio er baseret på IntelliJ)
-
+- Overveje hvordan GDPR kan påvirke et projekt
