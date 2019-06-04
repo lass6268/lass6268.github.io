@@ -6,7 +6,7 @@ subtitle: Appudvikling med Kotlin
 
 Point : 10 ects
 
-### Viden: jeg vil gerne kunne beskrive, forklare, illustrere, identificere o.s.v
+### Viden: 
 - vide hvordan man udvikler android-apps med Kotlin
 - vide hvad man kan bruge Kotlin til ud over mobil udvikling
 - kende mere til relationen mellem Java og Kotlin
@@ -14,11 +14,11 @@ Point : 10 ects
 - viden om relevante sikkerhedsproblematikker på mobile platforme
 - viden om distributionskanaler (app store / google play)
 
-### Færdigheder: Jeg vil gerne kunne anvende, afprøve, analyse, sammenligne o.s.v
+### Færdigheder: 
 - Udvikle mobilapplikationer ved at anvende et dedikeret programmeringssprog
 - bruge eksterne pakker til at udvidde mit programs potentiale
 - udvikle et program der kan consume et web-API
 
-### Kompetencer: Jeg vil gerne kunne kombinere, ændre, diskutere, kontrollere o.s.v.
+### Kompetencer: 
 - kunne overveje det sprog/den udviklingsplatform som passer til den konkrete app-opgave
 - kunne kombinere forskellige eksterne pakker i et program
