@@ -2,10 +2,7 @@
 layout: page
 title: Læringsmål
 subtitle: Appudvikling med Kotlin
-
 ---
-
-Dette er foreløbig et udkast
 
 Point : 10 ects
 
