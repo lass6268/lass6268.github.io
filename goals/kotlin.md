@@ -23,5 +23,5 @@ Point : 10 ects
 - få mit program til at forbinde til eksterne services, specifikt et web-API
 
 ### Kompetencer: Jeg vil gerne kunne kombinere, ændre, diskutere, kontrollere o.s.v.
-- kunne vælge det sprog/den udviklingsplatform som passer til den konkrete app-opgave
-
+- kunne overveje det sprog/den udviklingsplatform som passer til den konkrete app-opgave
+- kunne kombinere forskellige eksterne pakker i et program
