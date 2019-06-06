@@ -41,7 +41,36 @@ App kan også bygges ved brug af JDK eller Android SDK, da de begge indeholder v
 Sørg for at eksterne servere er produktionsklar og sikre. 
 > Dokumentationen fremhæver at sikkerhed især er vigtig hvis der foregår en eller anden type betaling igennem servere, men jeg vil lige fremhæve at sikkerhed er mindst lige så vigtigt når der er tale om personoplysninger. 
 
+For at min app ville kunne blive udgivet, ville det kræve at Julians API var tilgængelig online, hvilket ikke er tilfældet.
+
 ## Test applikation
 Afprøv release versionen på nogle devices i realistiske situationer. De anbefaler at man mindst tester på et device i telefonstørrelsen og et device i tablet-størrelsen, for at verificere at elementer i brugerfladen ser korrekte ud og at app'ens præstationsevne og batterieffektivitet er acceptabelt.
 
-- dristrubuer app, ved hjælp af Google Play Store eller via mail/website
+# Udgivelse
+Der er grundlæggende tre muligheder for udgivelse:
+- Google play marketplace
+- per email
+- via hjemmeside
+
+## Google Play Marketplace
+Denne giver dig klart det største publikum, og muligvis flest fordele med hensyn til værktøjer der kan hjælpe dig med at tjene penge ([in-app billing](https://developer.android.com/google/play/billing/index.html) og [application licensing](https://developer.android.com/google/play/licensing/index.html) er specielt fremhævet)
+
+## Email
+Denne metode kræver blot at du klargør din app til udgivelse og så vedhæfter du applikationen til en mail du sender. Vedkommende der modtager den skal blot åbne mailen på et android device og klikke på "Install".
+
+Dette kan han dog kun gøre hvis:
+- han åbner mailen med Gmail appen.
+- at han har tilladt app's fra ukendte kilder.
+
+## Hjemmeside
+Her skal du naturligvis også have klargjort din app som ovenstående. Apk-filen ligger du så ud på en hjemmeside, hvor du giver den et downloadlink. 
+En android bruger skal blot klikke på linket og downloade programfilen og så vil den blive installeret.
+
+Programmet bliver dog kun installeret hvis han har tilladt app's fra ukendte kilder.
+
+# Refleksion
+Præcis som med udvikling af en app selv, er der også en del arbejde forbundet med at gøre klar til udgivelse. Her har jeg kun lavet et kort overblik for min egen skyld, men jeg kan allerede nu se at der er flere emner man kan gå endnu dybere i. Havde jeg skulle udgive min app, var jeg nok dykket ned i mere om dette.
+
+Jeg syntes egentlig det er spændenden at man kan udgive apps "udenom" den officielle store, men at det kræver at man slår noget sikkerhed fra på sin telefon. Jeg kan kun forestille mig at det er relevant hvis man tester for folk man kender og stoler på og iøvrigt på devices som ikke bliver brugt som de primære devices.
+
+En af problematikkerne ved Play Store er at man drukner i muligheder, men det er en diskussion til en anden gang. Faktum er at de fleste brugere i udgangspunktet vil gå den vej for at finde sine app's og google tilbyder værktøjer til at optimere sin indtjening hvis det er programmer man skal tjene penge på.
