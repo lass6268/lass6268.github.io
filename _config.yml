@@ -26,9 +26,9 @@ navbar-links:
   Blog: "blog"
   Planer: "studyplans/current"
   Mål:
-    - SignaR: "goals/kotlin"
-    - TypeScript: "goals/angular"
-    - Microservices: "goals/testing"
+    - SignaR: "goals/Signalr"
+    - TypeScript: "goals/Typescript"
+    - Microservices: "goals/Microservices"
     - ---: #
     - Støtteemner: "goals/supporting"
   Projekt: 
