@@ -29,8 +29,6 @@ navbar-links:
     - SignaR: "goals/SignalR"
     - TypeScript: "goals/Typescript"
     - Microservices: "goals/Microservices"
-    - ---: #
-    - Støtteemner: "goals/supporting"
   Projekt: 
     - Julian: "https://codeiwrote.net"
     - Lars: "https://larzraz.github.io"
