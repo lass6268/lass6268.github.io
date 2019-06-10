@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://jesp209i.github.io"
+url: "https://lass6268.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: Fjerde semesters portefølje
 
 # Short description of your site
-description: Jespers 4. semesters portefølje
+description: Lasses 4. semesters portefølje
 
 # --- Navigation bar options --- #
 
@@ -26,15 +26,15 @@ navbar-links:
   Blog: "blog"
   Planer: "studyplans/current"
   Mål:
-    - Kotlin: "goals/kotlin"
-    - Angular: "goals/angular"
-    - Testing: "goals/testing"
+    - SignaR: "goals/kotlin"
+    - TypeScript: "goals/angular"
+    - Microservices: "goals/testing"
     - ---: #
     - Støtteemner: "goals/supporting"
   Projekt: 
     - Julian: "https://codeiwrote.net"
     - Lars: "https://larzraz.github.io"
-    - Lasse: "https://lass6268.github.io"
+    - Jesper: "https://enmango.dk"
     - Mathias: "https://mahh0002.github.io/"
     - ----: #
     - gh/ordsome: https://github.com/jesp209i/ordsome
@@ -74,7 +74,7 @@ footer-link-col: "#2E6078"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jesper Madsen
+  name: Lasse Klitgaard
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -84,11 +84,10 @@ social-network-links:
   rss: true
 #  email: "someone@example.com"
 #  facebook: daattali
-  github: jesp209i
-#  twitter: daattali
+  github: lass6268
+ #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: jesper-albrecht-madsen
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
