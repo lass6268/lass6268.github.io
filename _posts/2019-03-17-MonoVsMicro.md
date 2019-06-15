@@ -16,7 +16,7 @@ Fordele :
 -	Simple ats cale horizontalt ved at sinne flere copier op bag en loadbalancer
 -	Continous deplyment er svært
 
-Challenges 
+Ulemper:
 -	Stor codebase gør det complikeret at forstå, især for nye tilkomende udviklere
 -	Scaling 
 -	Overloaded IDE, stor kodebase kan gør en IDE lagsom, og kan sænke byg tiden drastisk
